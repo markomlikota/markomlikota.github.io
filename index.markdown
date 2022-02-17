@@ -6,6 +6,7 @@ layout: home
 ---
 
 <!---  ![alt text for screen readers](picture.jpeg "Text to show on mouseover") -->
+<!--- bundle exec jekyll serve -->
 
 <img src="FilesToAdd/picture.jpeg" alt="MarineGEO circle logo" style="float: right; width:38.1966%; border: 1px solid black; margin:0 0 0 0"/>
 
@@ -20,7 +21,7 @@ at the University of Pennsylvania.
 My research interests are in time series econometrics,
 with applications in (international) macro-finance.
 
-[CV](FilesToAdd/CV_MM_EN_v7.pdf)
+[[CV]](FilesToAdd/CV_MM_EN_v7.pdf)
 
 <br>
 
@@ -33,23 +34,22 @@ with applications in (international) macro-finance.
 ## Work In Progress
 
 
-
-Why Does a Dominant Currency Replace Another?, with A. Mehl & I. van Robays (European Central Bank)
+**Why Does a Dominant Currency Replace Another?,** with A. Mehl & I. van Robays (European Central Bank)
 <details>
   <summary> Abstract </summary>
 
-  This paper assesses why a dominant international currency can be replaced with another by contrasting two hypotheses - a "trade" shock and an "exchange rate volatility" shock" - stressed in recent theoretical models (Gopinath & Stein (2021) and Mukhin (2022)). We use as a laboratory 13 European economies that saw marked increases in use of the euro at the expense of the US dollar for international trade invoicing over 1999-2019. We exploit the cross-sectional dispersion in the timing, speed and extent of the increase in euro-invoicing over time and use  theory-consistent identification assumptions to identify the shocks in a panel vector autoregression allowing for cross-country effects emphasized in theory. Our empirical estimates point to a substantial role  of the "exchange rate volatility" shock.
+  This paper assesses why a dominant currency in international trade invoicing can be replaced with another by contrasting two hypotheses — a “trade shock” and an “exchange rate volatility shock” — stressed in recent theoretical models (Gopinath and Stein (2021) and Mukhin (2022)). We study the unique case of 13 European economies that saw marked increases in use of the euro at the expense of the US dollar for international trade invoicing. Our empirical analysis uses theory-consistent identification assumptions to identify the shocks in a panel vector autoregression, allowing for cross-country effects emphasized in theory. This setup allows us to exploit the cross-sectional dispersion in timing, speed and extent of the increase in euro-invoicing over time. Our estimates point to a preponderant role of inertia and to a stronger role of the “exchange rate volatility” shock relative to the “trade shock” in invoicing decision dynamics. Greater stability of both domestic and trading partners’ currencies vis-à-vis the euro explains about 3-13% of the increase in EUR invoicing across countries. This is consistent with predictions of models emphasizing the importance of changes to exchange rate pegs as necessary condition to break input-output linkages and complementarities in price setting that induce exporters to coordinate on the same incumbent invoicing currency.
 
 </details>
 
 <br>
 
 
-Sequential Monte Carlo with Model Tempering, with F. Schorfheide (University of Pennsylvania)
+**Sequential Monte Carlo with Model Tempering,** with F. Schorfheide (University of Pennsylvania) [[Working Paper CEPR]][SMC-MT-CEPR] [[Working Paper arXiv]][SMC-MT-arXiv]
 <details>
   <summary>Abstract</summary>
 
-  In this paper we start from the posterior distribution of an approximating model for which sampling is fast and then use a sequential Monte Carlo (SMC) algorithm to reweight and mutate the initial draws into posterior draws from a model of inter- est. This technique can significantly speed up posterior computations for models for which likelihood evaluations are time-consuming (due to model solution or filtering). We apply the technique to the estimation of a vector autoregression with stochastic volatility and a nonlinear dynamic stochastic general equilibrium model. The runtime reductions we obtain range from 27% to 88%.
+  Modern macroeconometrics often relies on time series models for which it is time- consuming to evaluate the likelihood function. We demonstrate how Bayesian computations for such models can be drastically accelerated by reweighting and mutating posterior draws from an approximating model that allows for fast likelihood evaluations, into posterior draws from the model of interest, using a sequential Monte Carlo (SMC) algorithm. We apply the technique to the estimation of a vector autoregression with stochastic volatility and a nonlinear dynamic stochastic general equilibrium model. The runtime reductions we obtain range from 27% to 88%.
 </details>
 
 <br>
@@ -59,8 +59,7 @@ Sequential Monte Carlo with Model Tempering, with F. Schorfheide (University of 
 ## Publications
 
 
-
-Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S. (2021). [SVARs with Occasionally-Binding Constraints,][ZLB-VAR] _Journal of Econometrics_, forthcoming
+**SVARs with Occasionally-Binding Constraints,** Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S., _Journal of Econometrics_, forthcoming [[Link to Document]][ZLB-VAR] [[Working Paper NBER]][ZLB-VAR-NBER]
 <details>
   <summary>Abstract</summary>
 
@@ -69,4 +68,8 @@ Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S. (2021). [SVARs with O
 </details>
 
 
+
+[SMC-MT-arXiv]: https://arxiv.org/abs/2202.07070
+[SMC-MT-CEPR]: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17035
 [ZLB-VAR]: https://www.sciencedirect.com/science/article/abs/pii/S0304407621002487?dgcid=author
+[ZLB-VAR-NBER]: https://www.nber.org/papers/w28571
