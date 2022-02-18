@@ -5,10 +5,23 @@
 layout: home
 ---
 
-<!---  ![alt text for screen readers](picture.jpeg "Text to show on mouseover") -->
-<!--- bundle exec jekyll serve -->
+<!---
+![alt text for screen readers](picture.jpeg "Text to show on mouseover")
+
+bundle exec jekyll serve
+
+
+<p align="center">
+  <img src="FilesToAdd/picture.jpeg" alt="MarineGEO circle logo" style="width:30%; border: 1px solid black; margin:0 0 0 0"/>
+</p>
 
 <img src="FilesToAdd/picture.jpeg" alt="MarineGEO circle logo" style="float: right; width:38.1966%; border: 1px solid black; margin:0 0 0 0"/>
+-->
+
+<p align="center">
+  <a href="url"><img src="FilesToAdd/picture2_adj.jpeg" height="auto" width="30%" style="border-radius:50%"></a>
+</p>
+<h2 align="center"> Marko Mlikota</h2>
 
 
 <br>
@@ -21,11 +34,7 @@ at the University of Pennsylvania.
 My research interests are in time series econometrics,
 with applications in (international) macro-finance.
 
-[[CV]](FilesToAdd/CV_MM_EN_v7.pdf)
-
-<br>
-
-<br>
+[[CV]](FilesToAdd/CV_MM_EN_v7.pdf) [[LinkedIn]][LinkedinProfileLink] [[GitHub]][GitHubProfileLink] [[Twitter]][TwitterProfileLink]
 
 <br>
 
@@ -45,7 +54,8 @@ with applications in (international) macro-finance.
 <br>
 
 
-**Sequential Monte Carlo with Model Tempering,** with F. Schorfheide (University of Pennsylvania) [[Working Paper CEPR]][SMC-MT-CEPR] [[Working Paper arXiv]][SMC-MT-arXiv]
+**Sequential Monte Carlo with Model Tempering,** with F. Schorfheide (University of Pennsylvania) \
+[[Working Paper CEPR]][SMC-MT-CEPR] [[Working Paper arXiv]][SMC-MT-arXiv]
 <details>
   <summary>Abstract</summary>
 
@@ -55,11 +65,11 @@ with applications in (international) macro-finance.
 <br>
 
 
-
 ## Publications
 
 
-**SVARs with Occasionally-Binding Constraints,** Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S., _Journal of Econometrics_, forthcoming [[Link to Document]][ZLB-VAR] [[Working Paper NBER]][ZLB-VAR-NBER]
+**SVARs with Occasionally-Binding Constraints,** Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S., _Journal of Econometrics_, forthcoming \
+[[Link to Document]][ZLB-VAR] [[Working Paper NBER]][ZLB-VAR-NBER]
 <details>
   <summary>Abstract</summary>
 
@@ -73,3 +83,6 @@ with applications in (international) macro-finance.
 [SMC-MT-CEPR]: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17035
 [ZLB-VAR]: https://www.sciencedirect.com/science/article/abs/pii/S0304407621002487?dgcid=author
 [ZLB-VAR-NBER]: https://www.nber.org/papers/w28571
+[LinkedinProfileLink]: https://www.linkedin.com/in/marko-mlikota-aa13b712a/
+[GitHubProfileLink]: https://github.com/markomlikota
+[TwitterProfileLink]: https://twitter.com/marko25mlikota
