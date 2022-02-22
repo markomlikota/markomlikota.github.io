@@ -1,0 +1,219 @@
+\documentclass[letter,10pt]{article}
+% \input{/Users/markomlikota/Dropbox/Coding/Latex/MM_LatexArticleSettings}
+% \input{/Users/markomlikota/Dropbox/Coding/Latex/MM_LatexDefinitions}
+
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{setspace}
+
+\usepackage{titlesec}
+\titleformat{\section}
+{\bfseries}{\thesection}{1em}{}[{\titlerule[0.5pt]}]
+\titlespacing*{\section}{0pt}{3pt}{0pt}
+
+% the following two are absorbed above into "\titlespacing"; no, still needed; itemize and table lead to different spacings...
+% \newcommand{\makespace}{\vspace*{3pt}} %sets the spacing at the end of each section
+% \newcommand{\makespacesec}{\vspace*{-5pt}} %sets the spacing after each section title (line)
+\newcommand{\spacebeforeitems}{\vspace*{8pt}}
+% All relative to one line spacing:
+\newcommand{\rowspace}{2pt} %sets space to new entry in tables
+% \newcommand{\rowspaceshort}{-6pt} %add space before new subentry in tables
+% \newcommand{\spacelist}{-8pt} %add space before new entry in lists
+
+% \newcommand{\mcl}[1]{\multicolumn{2}{l}{\textbf{#1}}}
+% \newcommand{\mclit}[1]{\multicolumn{2}{l}{\textit{#1}}}
+% \newcommand{\mcn}[1]{\multicolumn{2}{l}{#1}}
+
+\newcommand{\mytem}{$\circ \; $}
+% \newcommand{\myEmph}[1]{\textit{#1}}
+\newcommand{\myEmph}[1]{#1}
+
+\definecolor{darkpowderblue}{rgb}{0.0, 0.2, 0.6}
+\newcommand{\colDB}[1]{ { \color{darkpowderblue}{#1} } }
+
+\hypersetup{
+  hidelinks = false,
+	colorlinks = true,
+	allcolors = darkpowderblue
+}
+
+\def\labelitemi{\mytem}
+\setlist[itemize]{itemsep=-2pt}
+
+
+\addtolength{\oddsidemargin}{-1.25in}
+\addtolength{\evensidemargin}{-1.25in}
+\addtolength{\textwidth}{2.5in}
+\addtolength{\topmargin}{-.75in}
+\addtolength{\textheight}{1.75in}
+
+
+\fancyhf{}
+\begin{document}
+		\pagestyle{fancy}
+		\footskip = -10pt
+
+		\renewcommand{\headrulewidth}{0pt}
+		\renewcommand{\footrulewidth}{0pt}
+
+		\vspace*{-40pt}
+		\noindent \centerline{ \textbf{\Large{\sc{Marko Mlikota}}}}
+		\vspace*{-0pt}
+
+	\begin{table}[h!]
+		\begin{tabular}{p{8.75cm}p{8.75cm}}
+		Department of Economics						& +1 267 261 24 59 \\
+		University of Pennsylvania				& \href{mlikota@sas.upenn.edu}{mlikota@sas.upenn.edu} \\
+		133 South 36th Street, Suite 548 	& \href{https://markomlikota.github.io}{https://markomlikota.github.io}\\
+		Philadelphia, PA 19104 						&  \\
+		\end{tabular}
+	\end{table}
+
+
+
+
+\section*{\sc{Education}}
+
+\begin{table}[h!]
+	\begin{tabular}{p{2.5cm}p{15cm}}
+		2018 - present	& \myEmph{Ph.D. Economics,} University of Pennsylvania \\[\rowspace]
+		2016 - 2018 		& \myEmph{M.A. Quantitative Economics \& Finance,} University of St.Gallen \\[\rowspace]
+		2016  					& \myEmph{Exchange Semester,} Institut d'Etudes Politiques (Sciences Po) Paris \\[\rowspace]
+		2013 - 2016 		& \myEmph{B.A. Economics,} University of St.Gallen \\
+	\end{tabular}
+\end{table}
+
+
+
+\section*{\sc{Research Experience \& Other Employment}}
+
+\begin{table}[h!]
+	\begin{tabular}{p{2.5cm}p{15cm}}
+		2021  & \myEmph{Ph.D. Trainee,} European Central Bank, International Policy Analysis Division \\[\rowspace]
+		2020 - present & \myEmph{Research Assistant,} Prof. Frank Schorfheide, University of Pennsylvania \\[\rowspace]
+		2018  & \myEmph{Research Assistant,} Prof. Guido Cozzi, University of St.Gallen \\[\rowspace]
+		2017 - 2018 & \myEmph{Research Assistant,} Prof. Charles Gottlieb, University of St.Gallen \\[\rowspace]
+		2017 & \myEmph{Summer Intern,} National Bank of Serbia, FX Reserves Division \\[\rowspace]
+		2017 & \myEmph{Research Assistant,} Prof. Christina Felfe, University of St.Gallen \\
+	\end{tabular}
+\end{table}
+
+
+
+\section*{\sc{Teaching Experience}}
+
+\begin{table}[h!]
+	\begin{tabular}{p{2.5cm}p{15cm}}
+		Spring '21,'22  & \myEmph{Time Series Econometrics (graduate),} TA Prof. Frank Schorfheide\\[\rowspace]
+		Spring '20  & \myEmph{Time Series Econometrics (graduate),} TA Prof. Francis X. Diebold \& Prof. Frank Schorfheide\\[\rowspace]
+		Fall '19  & \myEmph{Econometric Data Science (undergraduate),} TA Prof. Francis X. Diebold\\
+	\end{tabular}
+\end{table}
+
+
+
+\section*{\sc{Refereed Publications}}
+
+\spacebeforeitems
+
+\begin{itemize}
+	\item Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S. (2021). \href{https://www.sciencedirect.com/science/article/abs/pii/S0304407621002487?dgcid=author}{SVARs with Occasionally-Binding Constraints,} \textit{Journal of Econometrics}, forthcoming
+\end{itemize}
+
+
+
+\section*{\sc{Work In Progress}}
+
+\spacebeforeitems
+
+\begin{itemize}
+	\item \myEmph{Sequential Monte Carlo with Model Tempering,} with F. Schorfheide (University of Pennsylvania), \\ \href{https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17035}{CEPR Working Paper DP17035}, \href{https://arxiv.org/abs/2202.07070}{arXiv Working Paper 2202.07070}
+	\item \myEmph{Why Does a Dominant Currency Replace Another?,} with A. Mehl \& I. van Robays (European Central Bank)
+	%\item \myEmph{Cross-Sectional Dynamics Based on Network Structure}
+\end{itemize}
+
+
+
+\section*{\sc{Other Publications}}
+
+\spacebeforeitems
+
+\begin{itemize}
+	\item Mlikota, M. (2018). \href{https://doi.org/10.1007/978-3-658-21344-2_20}{Wie die IT-Revolution die Lohnschere spreizte.} In C. Keuschnigg (Eds.), \textit{Inklusives Wachstum und wirtschaftliche Sicherheit} (pp. 133-136). Springer Gabler, Wiesbaden.
+	\item Mlikota, M. (2017, October 3). \href{https://www.handelszeitung.ch/blogs/free-lunch/technischer-fortschritt-erhoeht-die-lohnungleichheit-1494785}{Technischer Fortschritt erh\"oht die Lohnungleichheit.} \textit{Handelszeitung, Z\"urich}.
+\end{itemize}
+
+
+
+\section*{\sc{Presentations}}
+
+\begin{table}[h!]
+	\begin{tabular}{p{2.5cm}p{15cm}}
+		% 2022 	& Econometrics Lunch Seminar, University of Pennsylvania; Macro Student Talk, University of Pennsylvania\\
+		2021 	& Econometrics Lunch Seminar, University of Pennsylvania; Macro Student Talk, University of Pennsylvania; European Central Bank, International Policy Analysis Division Seminar; Swiss Economists Abroad End-Of-Year Conference\\
+	\end{tabular}
+\end{table}
+
+
+
+
+
+\section*{\sc{Refereeing Activity}}
+
+\begin{table}[h!]
+	\begin{tabular}{p{2.5cm}p{15cm}}
+		2021 	& \textit{Macroeconomic Dynamics} \\
+	\end{tabular}
+\end{table}
+
+\newpage
+
+\section*{\sc{Awards \& Fellowships}}
+
+\begin{table}[h!]
+	\begin{tabular}{p{2.5cm}p{15cm}}
+		2019 	& \myEmph{Best Performance in Econometrics Preliminary Examination,} University of Pennsylvania\\
+		2019 	& \myEmph{Best Master Thesis in Economics,} University of St.Gallen\\
+		2018  & \myEmph{Best Master's Degree in Quantiative Economics \& Finance,} University of St.Gallen\\
+		2018  & \myEmph{University Fellowship,} University of Pennsylvania\\
+	\end{tabular}
+\end{table}
+
+
+
+\section*{\sc{Languages \& IT-Skills}}
+
+\spacebeforeitems
+
+\begin{itemize}
+	\item \myEmph{Serbian/Croatian, German} (native), \myEmph{English} (business proficiency), \myEmph{Russian} (fluent), \myEmph{French} (advanced; C1 Sciences Po 2016)
+	\item \myEmph{Latex, Julia, R} (proficient), \myEmph{Matlab, Stata} (advanced)
+\end{itemize}
+
+
+\section*{\sc{References}}
+
+\spacebeforeitems
+
+\begin{itemize}
+	\item Prof. Frank Schorfheide, \href{mailto:schorf@upenn.edu}{schorf@upenn.edu}
+	\item Prof. Francis X. Diebold, \href{mailto:fdiebold@sas.upenn.edu}{fdiebold@sas.upenn.edu}
+	% \item Prof. Enrique G. Mendoza, \href{mailto:egme@econ.upenn.edu}{egme@econ.upenn.edu}
+\end{itemize}
+
+
+\section*{\sc{Personal Information}}
+
+\begin{table}[h!]
+	\begin{tabular}{p{2.5cm}p{15cm}}
+		Date of Birth:	& 31 January 1995 \\[\rowspace]
+		Citizenship: 		& Switzerland, Serbia, Croatia \\
+	\end{tabular}
+\end{table}
+
+
+
+
+\end{document}

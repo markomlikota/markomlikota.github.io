@@ -16,6 +16,10 @@ bundle exec jekyll serve
 </p>
 
 <img src="FilesToAdd/picture.jpeg" alt="MarineGEO circle logo" style="float: right; width:38.1966%; border: 1px solid black; margin:0 0 0 0"/>
+
+[[mlikota@sas.upenn.edu]](mailto:mlikota@sas.upenn.edu)
+
+<p align="center"> blabla </p>
 -->
 
 <p align="center">
@@ -34,7 +38,7 @@ at the University of Pennsylvania.
 My research interests are in time series econometrics,
 with applications in (international) macro-finance.
 
-[[CV]](FilesToAdd/CV_MM_EN_v7.pdf) [[LinkedIn]][LinkedinProfileLink] [[GitHub]][GitHubProfileLink] [[Twitter]][TwitterProfileLink]
+[[CV]](FilesToAdd/CV_MM_EN_v8.pdf) [[LinkedIn]][LinkedinProfileLink] [[GitHub]][GitHubProfileLink] [[Twitter]][TwitterProfileLink]
 
 <br>
 
@@ -76,7 +80,6 @@ with applications in (international) macro-finance.
   We develop a structural VAR in which an occasionally-binding constraint generates censoring of one of the dependent variables. Once the censoring mechanism is triggered, we allow some of the coefficients for the remaining variables to change. We show that a necessary condition for a unique reduced form is that regression functions for the non-censored variables are continuous at the censoring point and that parameters satisfy some mild restrictions. In our application the censored variable is a nominal interest rate constrained by an effective lower bound (ELB). According to our estimates based on U.S. data, once the ELB becomes binding, the coefficients in the inflation equation change significantly, which translates into a change of the inflation responses to (unconventional) monetary policy and demand shocks. Our results suggest that the presence of the ELB is indeed empirically relevant for the propagation of shocks. We also obtain a shadow interest rate that shows a significant accommodation in the early phase of the Great Recession, followed by a mild and steady accommodation until liftoff in 2016.
 
 </details>
-
 
 
 [SMC-MT-arXiv]: https://arxiv.org/abs/2202.07070
