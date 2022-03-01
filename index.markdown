@@ -32,7 +32,7 @@ bundle exec jekyll serve
 
 Hi!
 
-I'm an Economics PhD Student
+I'm an Economics Ph.D. student
 at the University of Pennsylvania.
 
 My research interests are in time series econometrics,
@@ -59,7 +59,7 @@ with applications in (international) macro-finance.
 
 
 **Sequential Monte Carlo with Model Tempering,** with F. Schorfheide (University of Pennsylvania) \
-[[Working Paper CEPR]][SMC-MT-CEPR] [[Working Paper arXiv]][SMC-MT-arXiv]
+[[Working Paper CEPR]][SMC-MT-CEPR] [[Working Paper arXiv]][SMC-MT-arXiv] [[Code]][SMC-MT-GitHubCodes]
 <details>
   <summary>Abstract</summary>
 
@@ -84,6 +84,7 @@ with applications in (international) macro-finance.
 
 [SMC-MT-arXiv]: https://arxiv.org/abs/2202.07070
 [SMC-MT-CEPR]: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17035
+[SMC-MT-GitHubCodes]: https://github.com/markomlikota/SMC-MT
 [ZLB-VAR]: https://www.sciencedirect.com/science/article/abs/pii/S0304407621002487?dgcid=author
 [ZLB-VAR-NBER]: https://www.nber.org/papers/w28571
 [LinkedinProfileLink]: https://www.linkedin.com/in/marko-mlikota-aa13b712a/
