@@ -15,7 +15,7 @@ bundle exec jekyll serve
   <img src="FilesToAdd/picture.jpeg" alt="MarineGEO circle logo" style="width:30%; border: 1px solid black; margin:0 0 0 0"/>
 </p>
 
-<img src="FilesToAdd/picture.jpeg" alt="MarineGEO circle logo" style="float: right; width:38.1966%; border: 1px solid black; margin:0 0 0 0"/>
+<img src="FilesToAdd/picture3.jpg" alt="MarineGEO circle logo" style="float: right; width:38.1966%; border: 1px solid black; margin:0 0 0 0"/>
 
 [[mlikota@sas.upenn.edu]](mailto:mlikota@sas.upenn.edu)
 
@@ -23,7 +23,7 @@ bundle exec jekyll serve
 -->
 
 <p align="center">
-  <a href="url"><img src="FilesToAdd/picture2_adj.jpeg" height="auto" width="30%" style="border-radius:50%"></a>
+  <a href="url"><img src="FilesToAdd/picture4.jpg" height="auto" width="30%" style="border-radius:50%"></a>
 </p>
 <h2 align="center"> Marko Mlikota</h2>
 
