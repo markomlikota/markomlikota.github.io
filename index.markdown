@@ -38,7 +38,7 @@ at the University of Pennsylvania.
 My research interests are in time series econometrics,
 with applications in (international) macro-finance.
 
-[[CV]](FilesToAdd/CV_MM_EN_websiteversion.pdf) [[LinkedIn]][LinkedinProfileLink] [[GitHub]][GitHubProfileLink] [[Twitter]][TwitterProfileLink]
+[[CV]](FilesToAdd/CV_MM_EN.pdf) [[LinkedIn]][LinkedinProfileLink] [[GitHub]][GitHubProfileLink] [[Twitter]][TwitterProfileLink]
 
 <br>
 
