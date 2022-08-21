@@ -6,9 +6,14 @@ layout: home
 ---
 
 <!---
-![alt text for screen readers](picture.jpeg "Text to show on mouseover")
 
 bundle exec jekyll serve
+localhost
+
+
+https://www.w3schools.com/css/css_tooltip.asp
+
+![alt text for screen readers](picture.jpeg "Text to show on mouseover")
 
 
 <p align="center">
@@ -21,6 +26,14 @@ bundle exec jekyll serve
 
 <p align="center"> blabla </p>
 -->
+
+
+
+
+
+
+
+
 
 <p align="center">
   <a href="url"><img src="FilesToAdd/picture4.jpg" height="auto" width="30%" style="border-radius:50%"></a>
@@ -36,7 +49,7 @@ I'm an Economics Ph.D. student
 at the University of Pennsylvania.
 
 My research interests are in time series econometrics,
-with applications in (international) macro-finance.
+with applications in (international) macro-finance. In particular, I'm analyzing how shocks propagate over time through a network of bilateral links (among industries, countries, firms, etc.).
 
 [[CV]](FilesToAdd/CV_MM_EN.pdf) [[LinkedIn]][LinkedinProfileLink] [[GitHub]][GitHubProfileLink] [[Twitter]][TwitterProfileLink]
 
@@ -45,6 +58,25 @@ with applications in (international) macro-finance.
 
 
 ## Work In Progress
+
+
+**Time Series Dynamics Based On Network Structure**
+
+<!--
+<details>
+  <summary> Abstract </summary>
+  Networks succinctly summarize potentially complex relations among agents or nodes by the set of bilateral links among them.
+  Based on this insight, I develop a VAR where the dynamics of a (cross-sectional) time series are based on a set of bilateral links among individual series.
+  I illustrate how the model’s time series properties relate to those of the network and show that it approximates the process of prices in an economy with input-output linkages and natural time lags between the production of inputs and their subsequent usage in the production of other goods.
+  I apply the model to document how price shocks propagate over time through the network of input-output links across US sectors.
+  Moreover, I argue that the model gives a sparse, yet flexible and intuitive way of approximating a general linear process.
+  I discuss estimation strategies and the relation to other parsimony-inducing methods used for modeling high-dimensional time series, factor models in particular.
+
+</details>
+
+<br>
+
+-->
 
 
 **Why Does a Dominant Currency Replace Another?,** with A. Mehl & I. van Robays (European Central Bank)
