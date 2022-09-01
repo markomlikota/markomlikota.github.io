@@ -27,6 +27,8 @@ url: https://markomlikota.github.io # the base hostname & protocol for your site
 twitter_username: marko25mlikota
 github_username:  markomlikota
 linkedin_username: marko-mlikota-aa13b712a
+# Google Analytics
+google_analytics: G-X7GZRRVN0D
 
 # Build settings
 theme: minima
@@ -35,6 +37,8 @@ minima:
 #remote_theme: alshedivat/al-folio
 plugins:
   - jekyll-feed
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
