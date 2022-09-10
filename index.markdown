@@ -94,43 +94,6 @@ with applications in (international) macro-finance. In particular, I'm analyzing
 [[Working Paper CEPR]][SMC-MT-CEPR] [[Working Paper arXiv]][SMC-MT-arXiv] [[Code]][SMC-MT-GitHubCodes]
 
 
-<!--
-**Time Series Dynamics Based On Network Structure**
-<details>
-  <summary> Abstract </summary>
-  Networks succinctly summarize potentially complex relations among agents or nodes by the set of bilateral links among them.
-  Based on this insight, I develop a VAR where the dynamics of a (cross-sectional) time series are based on a set of bilateral links among individual series.
-  I illustrate how the model’s time series properties relate to those of the network and show that it approximates the process of prices in an economy with input-output linkages and natural time lags between the production of inputs and their subsequent usage in the production of other goods.
-  I apply the model to document how price shocks propagate over time through the network of input-output links across US sectors.
-  Moreover, I argue that the model gives a sparse, yet flexible and intuitive way of approximating a general linear process.
-  I discuss estimation strategies and the relation to other parsimony-inducing methods used for modeling high-dimensional time series, factor models in particular.
-
-</details>
-
-<br>
-
-
-**Why Does a Dominant Currency Replace Another?,** with A. Mehl & I. van Robays (European Central Bank)
-<details>
-  <summary> Abstract </summary>
-  This paper assesses why a dominant currency in international trade invoicing can be replaced with another by contrasting two hypotheses — a “trade shock” and an “exchange rate volatility shock” — stressed in recent theoretical models (Gopinath and Stein (2021) and Mukhin (2022)). We study the unique case of 13 European economies that saw marked increases in use of the euro at the expense of the US dollar for international trade invoicing. Our empirical analysis uses theory-consistent identification assumptions to identify the shocks in a panel vector autoregression, allowing for cross-country effects emphasized in theory. This setup allows us to exploit the cross-sectional dispersion in timing, speed and extent of the increase in euro-invoicing over time. Our estimates point to a preponderant role of inertia and to a stronger role of the “exchange rate volatility” shock relative to the “trade shock” in invoicing decision dynamics. Greater stability of both domestic and trading partners’ currencies vis-à-vis the euro explains about 3-13% of the increase in EUR invoicing across countries. This is consistent with predictions of models emphasizing the importance of changes to exchange rate pegs as necessary condition to break input-output linkages and complementarities in price setting that induce exporters to coordinate on the same incumbent invoicing currency.
-
-</details>
-
-<br>
-
-
-**Sequential Monte Carlo with Model Tempering,** with F. Schorfheide (University of Pennsylvania) \
-[[Working Paper CEPR]][SMC-MT-CEPR] [[Working Paper arXiv]][SMC-MT-arXiv] [[Code]][SMC-MT-GitHubCodes]
-<details>
-  <summary>Abstract</summary>
-
-  Modern macroeconometrics often relies on time series models for which it is time- consuming to evaluate the likelihood function. We demonstrate how Bayesian computations for such models can be drastically accelerated by reweighting and mutating posterior draws from an approximating model that allows for fast likelihood evaluations, into posterior draws from the model of interest, using a sequential Monte Carlo (SMC) algorithm. We apply the technique to the estimation of a vector autoregression with stochastic volatility and a nonlinear dynamic stochastic general equilibrium model. The runtime reductions we obtain range from 27% to 88%.
-</details>
-
-<br>
--->
-
 
 <br>
 ## Publications
@@ -144,17 +107,6 @@ with applications in (international) macro-finance. In particular, I'm analyzing
 [[Link to Document]][ZLB-VAR] [[Working Paper NBER]][ZLB-VAR-NBER]
 
 
-
-<!--
-**SVARs with Occasionally-Binding Constraints,** Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S., _Journal of Econometrics_, forthcoming \
-[[Link to Document]][ZLB-VAR] [[Working Paper NBER]][ZLB-VAR-NBER]
-<details>
-  <summary>Abstract</summary>
-
-  We develop a structural VAR in which an occasionally-binding constraint generates censoring of one of the dependent variables. Once the censoring mechanism is triggered, we allow some of the coefficients for the remaining variables to change. We show that a necessary condition for a unique reduced form is that regression functions for the non-censored variables are continuous at the censoring point and that parameters satisfy some mild restrictions. In our application the censored variable is a nominal interest rate constrained by an effective lower bound (ELB). According to our estimates based on U.S. data, once the ELB becomes binding, the coefficients in the inflation equation change significantly, which translates into a change of the inflation responses to (unconventional) monetary policy and demand shocks. Our results suggest that the presence of the ELB is indeed empirically relevant for the propagation of shocks. We also obtain a shadow interest rate that shows a significant accommodation in the early phase of the Great Recession, followed by a mild and steady accommodation until liftoff in 2016.
-
-</details>
--->
 
 
 
@@ -181,11 +133,11 @@ with applications in (international) macro-finance. In particular, I'm analyzing
 /* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 330px;
+  width: 250px;
   background-color: #181818;
   color: #bbbbbb;
   text-align: justify;
-  padding: 3px 3px;
+  padding: 1px 1px;
   border-radius: 0px;
   line-height: 1.2;
 
@@ -193,7 +145,7 @@ with applications in (international) macro-finance. In particular, I'm analyzing
   position: absolute;
   z-index: 1;
   bottom: -20px;
-  right: 105%;
+  left: -260px;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
