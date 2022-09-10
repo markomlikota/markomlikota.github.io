@@ -25,45 +25,10 @@ https://www.w3schools.com/css/css_tooltip.asp
 [[mlikota@sas.upenn.edu]](mailto:mlikota@sas.upenn.edu)
 
 <p align="center"> blabla </p>
+
+<a href="https://www.youtube.com/embed/Tg0Ajam946o" target="_BLANK" title="Click me">[Short Video]</a>
+
 -->
-
-
-<style>
-/* Tooltip container */
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 0px dotted black; /* If you want dots under the hoverable text */
-}
-
-/* Tooltip text */
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 330px;
-  background-color: #181818;
-  color: #bbbbbb;
-  text-align: justify;
-  padding: 3px 3px;
-  border-radius: 0px;
-  line-height: 1.2;
-
-  /* Position the tooltip text - see examples below! */
-  position: absolute;
-  z-index: 1;
-  bottom: -20px;
-  right: 105%;
-}
-
-/* Show the tooltip text when you mouse over the tooltip container */
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-</style>
-
-
-
-
-
 
 
 
@@ -86,6 +51,7 @@ with applications in (international) macro-finance. In particular, I'm analyzing
 
 [[CV]](FilesToAdd/CV_MM_EN.pdf) [[LinkedIn]][LinkedinProfileLink] [[GitHub]][GitHubProfileLink] [[Twitter]][TwitterProfileLink]
 
+
 <br>
 
 
@@ -104,6 +70,7 @@ with applications in (international) macro-finance. In particular, I'm analyzing
   I discuss estimation strategies and the relation to other parsimony-inducing methods used for modeling high-dimensional time series, factor models in particular.
   </span>
 </div>
+<a href="{% link P009_YTvideo.markdown %}">[Short Video]</a>
 
 <br>
 
@@ -199,3 +166,38 @@ with applications in (international) macro-finance. In particular, I'm analyzing
 [LinkedinProfileLink]: https://www.linkedin.com/in/marko-mlikota-aa13b712a/
 [GitHubProfileLink]: https://github.com/markomlikota
 [TwitterProfileLink]: https://twitter.com/marko25mlikota
+
+
+
+
+<style>
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 0px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 330px;
+  background-color: #181818;
+  color: #bbbbbb;
+  text-align: justify;
+  padding: 3px 3px;
+  border-radius: 0px;
+  line-height: 1.2;
+
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+  bottom: -20px;
+  right: 105%;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+</style>
