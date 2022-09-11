@@ -49,7 +49,7 @@ at the University of Pennsylvania.
 My research interests are in time series econometrics,
 with applications in (international) macro-finance. In particular, I'm analyzing how shocks propagate over time through a network of bilateral links (among industries, countries, firms, etc.).
 
-[[CV]](FilesToAdd/CV_MM_EN.pdf) [[LinkedIn]][LinkedinProfileLink] [[GitHub]][GitHubProfileLink] [[Twitter]][TwitterProfileLink]
+[[CV]](FilesToAdd/CV_MM_EN.pdf) [[Google Scholar]][GoogleScholarLink] [[GitHub]][GitHubProfileLink] [[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
 
 
 <br>
@@ -104,7 +104,7 @@ with applications in (international) macro-finance. In particular, I'm analyzing
   We develop a structural VAR in which an occasionally-binding constraint generates censoring of one of the dependent variables. Once the censoring mechanism is triggered, we allow some of the coefficients for the remaining variables to change. We show that a necessary condition for a unique reduced form is that regression functions for the non-censored variables are continuous at the censoring point and that parameters satisfy some mild restrictions. In our application the censored variable is a nominal interest rate constrained by an effective lower bound (ELB). According to our estimates based on U.S. data, once the ELB becomes binding, the coefficients in the inflation equation change significantly, which translates into a change of the inflation responses to (unconventional) monetary policy and demand shocks. Our results suggest that the presence of the ELB is indeed empirically relevant for the propagation of shocks. We also obtain a shadow interest rate that shows a significant accommodation in the early phase of the Great Recession, followed by a mild and steady accommodation until liftoff in 2016.
   </span>
 </div>
-[[Link to Document]][ZLB-VAR] [[Working Paper NBER]][ZLB-VAR-NBER]
+[[Link to Document]][ZLB-VAR] [[Working Paper NBER]][ZLB-VAR-NBER] [[Code]][ZLB-VAR-CodesFrank]
 
 
 
@@ -115,9 +115,11 @@ with applications in (international) macro-finance. In particular, I'm analyzing
 [SMC-MT-GitHubCodes]: https://github.com/markomlikota/SMC-MT
 [ZLB-VAR]: https://www.sciencedirect.com/science/article/abs/pii/S0304407621002487?dgcid=author
 [ZLB-VAR-NBER]: https://www.nber.org/papers/w28571
+[ZLB-VAR-CodesFrank]: https://web.sas.upenn.edu/schorf/publications/
 [LinkedinProfileLink]: https://www.linkedin.com/in/marko-mlikota-aa13b712a/
 [GitHubProfileLink]: https://github.com/markomlikota
 [TwitterProfileLink]: https://twitter.com/marko25mlikota
+[GoogleScholarLink]: https://scholar.google.com/citations?hl=en&user=IFrID1kAAAAJ
 
 
 
@@ -145,7 +147,7 @@ with applications in (international) macro-finance. In particular, I'm analyzing
   position: absolute;
   z-index: 1;
   bottom: -20px;
-  left: -260px;
+  left: -270px;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
