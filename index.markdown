@@ -46,10 +46,11 @@ Hi!
 I'm an Economics Ph.D. student
 at the University of Pennsylvania.
 
-My research interests are in time series econometrics,
-with applications in (international) macro-finance. In particular, I'm analyzing how shocks propagate over time through a network of bilateral links (among industries, countries, firms, etc.).
+My research interests are in time series econometrics and (international) macro-finance. In my Job Market Paper, I'm analyzing how shocks propagate over time through a network of bilateral links (among industries, countries, firms, etc.).
 
 [[CV]](FilesToAdd/CV_MM_EN.pdf) [[Google Scholar]][GoogleScholarLink] [[GitHub]][GitHubProfileLink] [[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
+
+Contact: [[mlikota@sas.upenn.edu]][EmailLink]
 
 
 <br>
@@ -62,12 +63,7 @@ with applications in (international) macro-finance. In particular, I'm analyzing
 <div class="tooltip"> <strong>Time Series Dynamics Based On Network Structure</strong>
   <span class="tooltiptext">
   <strong>Abstract:</strong> <br />
-  Networks succinctly summarize potentially complex relations among agents or nodes by the set of bilateral links among them.
-  Based on this insight, I develop a VAR where the dynamics of a (cross-sectional) time series are based on a set of bilateral links among individual series.
-  I illustrate how the model’s time series properties relate to those of the network and show that it approximates the process of prices in an economy with input-output linkages and natural time lags between the production of inputs and their subsequent usage in the production of other goods.
-  I apply the model to document how price shocks propagate over time through the network of input-output links across US sectors.
-  Moreover, I argue that the model gives a sparse, yet flexible and intuitive way of approximating a general linear process.
-  I discuss estimation strategies and the relation to other parsimony-inducing methods used for modeling high-dimensional time series, factor models in particular.
+  Numerous environments in economics feature a cross-section of agents or units linked through a network of bilateral ties. This paper develops a Vector Autoregression (VAR) which is based on the assumption that innovations transmit cross-sectionally via such bilateral links and can accommodate general patterns of how network effects accrue over time. I illustrate how the model’s time series properties relate to those of the network and show that it approximates the process of sectoral prices in an economy with input-output linkages and time lags between the production of inputs and their usage in the production of other goods. I use the framework to document how price shocks propagate over time through the network of input-output links across US sectors. Furthermore, I argue that the model gives a sparse, yet flexible and intuitive way of approximating a general linear process, owing to the ability of networks to succinctly summarize potentially complex relations among units by relatively few non-zero bilateral links. I discuss estimation strategies and the relation to other parsimonious methods for modeling high-dimensional time series. The framework is applied to model the dynamics of industrial production across countries globally.
   </span>
 </div>
 <a href="{% link P009_YTvideo.markdown %}">[Short Video]</a>
@@ -91,7 +87,7 @@ with applications in (international) macro-finance. In particular, I'm analyzing
   Modern macroeconometrics often relies on time series models for which it is time- consuming to evaluate the likelihood function. We demonstrate how Bayesian computations for such models can be drastically accelerated by reweighting and mutating posterior draws from an approximating model that allows for fast likelihood evaluations, into posterior draws from the model of interest, using a sequential Monte Carlo (SMC) algorithm. We apply the technique to the estimation of a vector autoregression with stochastic volatility and a nonlinear dynamic stochastic general equilibrium model. The runtime reductions we obtain range from 27% to 88%.
   </span>
 </div>
-[[Working Paper CEPR]][SMC-MT-CEPR] [[Working Paper arXiv]][SMC-MT-arXiv] [[Code]][SMC-MT-GitHubCodes]
+[[Working Paper arXiv]][SMC-MT-arXiv] [[Working Paper CEPR]][SMC-MT-CEPR] [[Code]][SMC-MT-GitHubCodes]
 
 
 
@@ -120,6 +116,7 @@ with applications in (international) macro-finance. In particular, I'm analyzing
 [GitHubProfileLink]: https://github.com/markomlikota
 [TwitterProfileLink]: https://twitter.com/marko25mlikota
 [GoogleScholarLink]: https://scholar.google.com/citations?hl=en&user=IFrID1kAAAAJ
+[EmailLink]: mailto:mlikota@sas.upenn.edu
 
 
 
