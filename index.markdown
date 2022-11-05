@@ -28,6 +28,11 @@ https://www.w3schools.com/css/css_tooltip.asp
 
 <a href="https://www.youtube.com/embed/Tg0Ajam946o" target="_BLANK" title="Click me">[Short Video]</a>
 
+ <font size="3"> This is my text number1</font>
+ <span style="color:blue">some *blue* text</span> // see colors in https://htmlcolorcodes.com
+
+ <span style="color:#EABC7E; opacity: 0.900;"> <strong>Why Does a Dominant Currency Replace Another?,</strong></span> with A. Mehl & I. van Robays (European Central Bank)
+
 -->
 
 
@@ -46,24 +51,23 @@ Hi!
 I'm an Economics Ph.D. student
 at the University of Pennsylvania.
 
-My research interests are in time series econometrics and (international) macro-finance. In my Job Market Paper, I'm analyzing how shocks propagate over time through a network of bilateral links (among industries, countries, firms, etc.).
+My research interests are in time series econometrics and (international) macro-finance. In particular, I analyze how shocks propagate over time through a network of bilateral links (think of economic activity across countries linked via trade and capital flows, or prices across industries linked by the supply chain network).
 
 [[CV]](FilesToAdd/CV_MM_EN.pdf) [[Google Scholar]][GoogleScholarLink] [[GitHub]][GitHubProfileLink] [[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
 
-Contact: [[mlikota@sas.upenn.edu]][EmailLink]
+Contact: mlikota@sas.upenn.edu
 
 
 <br>
 
 
-
 ## Work In Progress
 
 
-<div class="tooltip"> <strong>Time Series Dynamics Based On Network Structure</strong>
+<div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> Cross-Sectional Dynamics Under Network Structure </span>
   <span class="tooltiptext">
   <strong>Abstract:</strong> <br />
-  Numerous environments in economics feature a cross-section of agents or units linked through a network of bilateral ties. This paper develops a Vector Autoregression (VAR) which is based on the assumption that innovations transmit cross-sectionally via such bilateral links and can accommodate general patterns of how network effects accrue over time. I illustrate how the model’s time series properties relate to those of the network and show that it approximates the process of sectoral prices in an economy with input-output linkages and time lags between the production of inputs and their usage in the production of other goods. I use the framework to document how price shocks propagate over time through the network of input-output links across US sectors. Furthermore, I argue that the model gives a sparse, yet flexible and intuitive way of approximating a general linear process, owing to the ability of networks to succinctly summarize potentially complex relations among units by relatively few non-zero bilateral links. I discuss estimation strategies and the relation to other parsimonious methods for modeling high-dimensional time series. The framework is applied to model the dynamics of industrial production across countries globally.
+  Many environments in economics feature a cross-section of agents or units linked through a network of bilateral ties. This paper develops a framework to study dynamics in these cases. It consists of a Vector Autoregression (VAR) in which innovations transmit cross-sectionally via bilateral links and which can accommodate general patterns of how network effects of different order accrue over time. In a first application, taking the network as given, I document how supply chain linkages drive the dynamics of sectoral prices in the US economy. By taking a stance on the frequency of network interactions relative to the frequency of observation, the model allows me to go beyond steady state comparisons and study transition dynamics induced by granular shocks. In a second application, I show how the framework can be applied for modeling cross-sectional dynamics even in absence of network data. The model yields a sparse, yet flexible and interpretable way of doing so, owing to networks’ ability to succinctly summarize complex relations among units by relatively few non-zero bilateral links. In an application to monthly industrial production across 44 countries, a Least Squares estimator of the model offers an equivalent forecasting performance to a principal components factor model.
   </span>
 </div>
 <a href="{% link P009_YTvideo.markdown %}">[Short Video]</a>
@@ -71,7 +75,7 @@ Contact: [[mlikota@sas.upenn.edu]][EmailLink]
 <br>
 
 
-<div class="tooltip"> <strong>Why Does a Dominant Currency Replace Another?,</strong> with A. Mehl & I. van Robays (European Central Bank)
+<div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> Why Does a Dominant Currency Replace Another?,</span> with A. Mehl & I. van Robays (European Central Bank)
   <span class="tooltiptext">
   <strong>Abstract:</strong> <br />
   This paper assesses why a dominant currency in international trade invoicing can be replaced with another by contrasting two hypotheses — a “trade shock” and an “exchange rate volatility shock” — stressed in recent theoretical models (Gopinath and Stein (2021) and Mukhin (2022)). We study the unique case of 13 European economies that saw marked increases in use of the euro at the expense of the US dollar for international trade invoicing. Our empirical analysis uses theory-consistent identification assumptions to identify the shocks in a panel vector autoregression, allowing for cross-country effects emphasized in theory. This setup allows us to exploit the cross-sectional dispersion in timing, speed and extent of the increase in euro-invoicing over time. Our estimates point to a preponderant role of inertia and to a stronger role of the “exchange rate volatility” shock relative to the “trade shock” in invoicing decision dynamics. Greater stability of both domestic and trading partners’ currencies vis-à-vis the euro explains about 3-13% of the increase in EUR invoicing across countries. This is consistent with predictions of models emphasizing the importance of changes to exchange rate pegs as necessary condition to break input-output linkages and complementarities in price setting that induce exporters to coordinate on the same incumbent invoicing currency.
@@ -81,7 +85,7 @@ Contact: [[mlikota@sas.upenn.edu]][EmailLink]
 <br>
 
 
-<div class="tooltip"> <strong>Sequential Monte Carlo with Model Tempering,</strong> with F. Schorfheide (University of Pennsylvania)
+<div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> Sequential Monte Carlo with Model Tempering,</span> with F. Schorfheide (University of Pennsylvania)
   <span class="tooltiptext">
   <strong>Abstract:</strong> <br />
   Modern macroeconometrics often relies on time series models for which it is time- consuming to evaluate the likelihood function. We demonstrate how Bayesian computations for such models can be drastically accelerated by reweighting and mutating posterior draws from an approximating model that allows for fast likelihood evaluations, into posterior draws from the model of interest, using a sequential Monte Carlo (SMC) algorithm. We apply the technique to the estimation of a vector autoregression with stochastic volatility and a nonlinear dynamic stochastic general equilibrium model. The runtime reductions we obtain range from 27% to 88%.
@@ -94,7 +98,7 @@ Contact: [[mlikota@sas.upenn.edu]][EmailLink]
 <br>
 ## Publications
 
-<div class="tooltip"> <strong>SVARs with Occasionally-Binding Constraints,</strong> Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S., <i> Journal of Econometrics </i>, forthcoming
+<div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> SVARs with Occasionally-Binding Constraints,</span> Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S. (2022), <i> Journal of Econometrics </i>, 231(2), 477-499
   <span class="tooltiptext">
   <strong>Abstract:</strong> <br />
   We develop a structural VAR in which an occasionally-binding constraint generates censoring of one of the dependent variables. Once the censoring mechanism is triggered, we allow some of the coefficients for the remaining variables to change. We show that a necessary condition for a unique reduced form is that regression functions for the non-censored variables are continuous at the censoring point and that parameters satisfy some mild restrictions. In our application the censored variable is a nominal interest rate constrained by an effective lower bound (ELB). According to our estimates based on U.S. data, once the ELB becomes binding, the coefficients in the inflation equation change significantly, which translates into a change of the inflation responses to (unconventional) monetary policy and demand shocks. Our results suggest that the presence of the ELB is indeed empirically relevant for the propagation of shocks. We also obtain a shadow interest rate that shows a significant accommodation in the early phase of the Great Recession, followed by a mild and steady accommodation until liftoff in 2016.
@@ -151,4 +155,6 @@ Contact: [[mlikota@sas.upenn.edu]][EmailLink]
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+
 </style>
