@@ -143,6 +143,7 @@ Contact: mlikota@sas.upenn.edu
   padding: 1px 1px;
   border-radius: 0px;
   line-height: 1.2;
+  font-size: 14px;
 
   /* Position the tooltip text - see examples below! */
   position: absolute;
