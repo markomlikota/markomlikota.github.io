@@ -89,7 +89,6 @@ Contact: mlikota@sas.upenn.edu
 </div>
 [[WP arXiv]][JMP-arXiv]
 
-<br>
 
 <div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> Sequential Monte Carlo with Model Tempering,</span> with F. Schorfheide (University of Pennsylvania)
   <span class="tooltiptext">
