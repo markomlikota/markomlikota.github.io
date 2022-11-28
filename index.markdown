@@ -116,13 +116,16 @@ Contact: mlikota@sas.upenn.edu
 
 
 
-[JMP-arXiv]: https://arxiv.org/search/econ?searchtype=author&query=Mlikota%2C+M
+[JMP-arXiv]: https://arxiv.org/abs/2211.13610
+
 [SMC-MT-arXiv]: https://arxiv.org/abs/2202.07070
 [SMC-MT-CEPR]: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17035
 [SMC-MT-GitHubCodes]: https://github.com/markomlikota/SMC-MT
+
 [ZLB-VAR]: https://www.sciencedirect.com/science/article/abs/pii/S0304407621002487?dgcid=author
 [ZLB-VAR-NBER]: https://www.nber.org/papers/w28571
 [ZLB-VAR-CodesFrank]: https://web.sas.upenn.edu/schorf/publications/
+
 [LinkedinProfileLink]: https://www.linkedin.com/in/marko-mlikota-aa13b712a/
 [GitHubProfileLink]: https://github.com/markomlikota
 [TwitterProfileLink]: https://twitter.com/marko25mlikota
