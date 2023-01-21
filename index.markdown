@@ -55,9 +55,9 @@ Hi!
 I'm an Economics Ph.D. student
 at the University of Pennsylvania.
 
-My research interests are in time series econometrics and (international) macro-finance. In particular, I analyze the implications of networks for cross-sectional dynamics (think of economic activity across countries linked via trade and capital flows, or prices across industries linked by the supply chain network).
+My research interests are in time series econometrics and (international) macro-finance. In particular, I analyze the implications of networks for cross-sectional dynamics (think of prices across industries linked by the supply chain network, or economic activity across countries linked via trade and capital flows).
 
-[[CV]](FilesToAdd/CV_MM_EN.pdf) [[Research Statement]](FilesToAdd/MM_ResearchStatement_2211.pdf)
+[[CV]](FilesToAdd/CV_MM_EN.pdf) [[Research Statement]](FilesToAdd/MM_ResearchStatement_2301.pdf)
 
 [[Google Scholar]][GoogleScholarLink] [[GitHub]][GitHubProfileLink] [[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
 
