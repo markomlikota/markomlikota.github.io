@@ -9,7 +9,8 @@ layout: home
 
 cd Documents/WorkProjects/PersonalWebsite
 bundle exec jekyll serve
-localhost
+
+Then: http://localhost:4000
 
 
 https://www.w3schools.com/css/css_tooltip.asp
@@ -67,10 +68,10 @@ Contact: mlikota@sas.upenn.edu
 <br>
 ## Work in Progress
 
-<div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> Why Does a Dominant Currency Replace Another?,</span> with A. Mehl & I. van Robays (European Central Bank)
+<div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> How Does a Dominant Currency Replace Another? Evidence from European Trade,</span> with A. Mehl & I. van Robays (European Central Bank)
   <span class="tooltiptext">
   <strong>Abstract:</strong> <br />
-  This paper assesses why a dominant currency in international trade invoicing can be replaced with another by contrasting two hypotheses — a “trade shock” and an “exchange rate volatility shock” — stressed in recent theoretical models (Gopinath and Stein (2021) and Mukhin (2022)). We study the unique case of 13 European economies that saw marked increases in use of the euro at the expense of the US dollar for international trade invoicing. Our empirical analysis uses theory-consistent identification assumptions to identify the shocks in a panel vector autoregression, allowing for cross-country effects emphasized in theory. This setup allows us to exploit the cross-sectional dispersion in timing, speed and extent of the increase in euro-invoicing over time. Our estimates point to a preponderant role of inertia and to a stronger role of the “exchange rate volatility” shock relative to the “trade shock” in invoicing decision dynamics. Greater stability of both domestic and trading partners’ currencies vis-à-vis the euro explains about 3-13% of the increase in EUR invoicing across countries. This is consistent with predictions of models emphasizing the importance of changes to exchange rate pegs as necessary condition to break input-output linkages and complementarities in price setting that induce exporters to coordinate on the same incumbent invoicing currency.
+  We assess why a dominant currency in international trade invoicing can be replaced with another by contrasting two hypotheses stressed in recent theory: increased trade and reduced exchange rate volatility vis-à-vis the emergent dominant currency area. Our study focuses on 13 European economies that saw marked increases in the use of the euro at the expense of the US dollar for trade invoicing. We show how theory maps itself into a network which links together invoicing currency decisions across countries and develop a fitting Panel-Vector autoregression to jointly model invoicing, trade and exchange rate volatility dynamics across countries, while allowing for cross-country effects emphasized in theory. We identify for each country a “trade shock” and an “exchange rate volatility shock”, finding significant evidence in support of the increased trade hypothesis. Our estimates suggest that in countries where trade with the Euro Area increased, the latter explains almost 40% of the rise in euro invoicing from 1999 to 2019. In contrast, the impact of greater exchange rate stability against the euro is found to be insignificant. Importantly, a country’s invoicing decision is significantly influenced by those of other countries within the regional trade network. This effect operates mainly via bilateral trade linkages rather than strategic complementarities in export price setting, which point to the relevance of changes to input-output linkages in making or breaking dominant currencies.
   </span>
 </div>
 
@@ -90,7 +91,7 @@ Contact: mlikota@sas.upenn.edu
 [[WP arXiv]][JMP-arXiv]
 
 
-<div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> Sequential Monte Carlo with Model Tempering,</span> with F. Schorfheide (University of Pennsylvania)
+<div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> Sequential Monte Carlo with Model Tempering,</span> with F. Schorfheide (University of Pennsylvania), conditionally accepted, <i> Studies in Nonlinear Dynamics \& Econometrics </i>
   <span class="tooltiptext">
   <strong>Abstract:</strong> <br />
   Modern macroeconometrics often relies on time series models for which it is time-consuming to evaluate the likelihood function. We demonstrate how Bayesian computations for such models can be drastically accelerated by reweighting and mutating posterior draws from an approximating model that allows for fast likelihood evaluations, into posterior draws from the model of interest, using a sequential Monte Carlo (SMC) algorithm. We apply the technique to the estimation of a vector autoregression with stochastic volatility and two nonlinear dynamic stochastic general equilibrium models. The runtime reductions we obtain range from 27% to 88%.
