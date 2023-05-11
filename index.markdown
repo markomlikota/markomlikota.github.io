@@ -77,7 +77,6 @@ Contact: mlikota@sas.upenn.edu
 
 
 
-
 <br>
 ## Working Papers
 
@@ -91,20 +90,19 @@ Contact: mlikota@sas.upenn.edu
 [[WP arXiv]][JMP-arXiv]
 
 
-<div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> Sequential Monte Carlo with Model Tempering,</span> with F. Schorfheide (University of Pennsylvania), conditionally accepted, <i> Studies in Nonlinear Dynamics & Econometrics </i>
+
+<br>
+## Publications
+
+
+<div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> Sequential Monte Carlo with Model Tempering,</span> Mlikota, M., Schorfheide, F. (2023), <i> Studies in Nonlinear Dynamics & Econometrics </i>, forthcoming
   <span class="tooltiptext">
   <strong>Abstract:</strong> <br />
   Modern macroeconometrics often relies on time series models for which it is time-consuming to evaluate the likelihood function. We demonstrate how Bayesian computations for such models can be drastically accelerated by reweighting and mutating posterior draws from an approximating model that allows for fast likelihood evaluations, into posterior draws from the model of interest, using a sequential Monte Carlo (SMC) algorithm. We apply the technique to the estimation of a vector autoregression with stochastic volatility and two nonlinear dynamic stochastic general equilibrium models. The runtime reductions we obtain range from 27% to 88%.
   </span>
 </div>
-[[WP arXiv]][SMC-MT-arXiv] [[WP CEPR]][SMC-MT-CEPR] [[Code]][SMC-MT-GitHubCodes]
+[[Link to Document]][SMC-MT] [[WP arXiv]][SMC-MT-arXiv] [[WP CEPR]][SMC-MT-CEPR] [[Code]][SMC-MT-GitHubCodes]
 
-
-
-
-
-<br>
-## Publications
 
 <div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> SVARs with Occasionally-Binding Constraints,</span> Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S. (2022), <i> Journal of Econometrics </i>, 231(2), 477-499
   <span class="tooltiptext">
@@ -119,6 +117,7 @@ Contact: mlikota@sas.upenn.edu
 
 [JMP-arXiv]: https://arxiv.org/abs/2211.13610
 
+[SMC-MT]: https://www.degruyter.com/document/doi/10.1515/snde-2022-0103/html
 [SMC-MT-arXiv]: https://arxiv.org/abs/2202.07070
 [SMC-MT-CEPR]: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17035
 [SMC-MT-GitHubCodes]: https://github.com/markomlikota/SMC-MT
