@@ -5,49 +5,14 @@
 layout: home
 ---
 
-<!---
-
-cd Documents/WorkProjects/PersonalWebsite
-bundle exec jekyll serve
-
-Then: http://localhost:4000
-
-
-https://www.w3schools.com/css/css_tooltip.asp
-
-![alt text for screen readers](picture.jpeg "Text to show on mouseover")
-
-
-<p align="center">
-  <img src="FilesToAdd/picture.jpeg" alt="MarineGEO circle logo" style="width:30%; border: 1px solid black; margin:0 0 0 0"/>
-</p>
-
-<img src="FilesToAdd/picture3.jpg" alt="MarineGEO circle logo" style="float: right; width:38.1966%; border: 1px solid black; margin:0 0 0 0"/>
-
-[[mlikota@sas.upenn.edu]](mailto:mlikota@sas.upenn.edu)
-
-<p align="center"> blabla </p>
-
-<a href="https://www.youtube.com/embed/Tg0Ajam946o" target="_BLANK" title="Click me">[Short Video]</a>
-
-% To refer to the page contained in the file "P009_...", which is in the same folder as this file: *<*a h*ref="{*% li*nk P0*09*_YTvideo*.m*arkdown %}">[Sho*rt Vide*o]</*a> (had to put asterisks to prevent this being read as a command...)
-
-
- <font size="3"> This is my text number1</font>
- <span style="color:blue">some *blue* text</span> // see colors in https://htmlcolorcodes.com
-
- <span style="color:#EABC7E; opacity: 0.900;"> <strong>Why Does a Dominant Currency Replace Another?,</strong></span> with A. Mehl & I. van Robays (European Central Bank)
-
--->
-
 
 
 
 <p align="center">
-  <a href="url"><img src="FilesToAdd/picture4.jpg" height="auto" width="30%" style="border-radius:50%"></a>
+  <a href="url"><img src="FilesToAdd/picture5.jpg" height="auto" style=" width:30%; border: 1px solid black; margin:0 0 0 0; border-radius:10%"></a>
 </p>
+
 <h2 align="center"> Marko Mlikota</h2>
-
 
 <br>
 
@@ -81,7 +46,7 @@ Contact: mlikota@sas.upenn.edu
 ## Working Papers
 
 
-<div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </span> [Job Market Paper]
+<div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </span>
   <span class="tooltiptext">
   <strong>Abstract:</strong> <br />
   Many environments in economics feature a cross-section of agents or units linked by a network of bilateral ties. I develop a framework to study dynamics in these cases. It consists of a vector autoregression in which innovations transmit cross-sectionally via bilateral links and which can accommodate general patterns of how network effects of higher order accumulate over time. In a first application, I take the supply chain network of the US economy as given and document how it drives the dynamics of sectoral prices. By estimating the time profile of network effects, the model allows me to go beyond steady state comparisons and study transition dynamics induced by granular shocks. As a result of different positions in the input-output network, sectors differ in both the strength and the timing of their impact on aggregates. In a second application, I discuss how to approximate cross-sectional processes by assuming that dynamics are driven by a network and in turn estimating the latter. The proposed framework offers a sparse, yet flexible and interpretable method for doing so, owing to networks’ ability to summarize complex relations among units by relatively few non-zero bilateral links. Modeling industrial production growth across 44 countries, I obtain reductions in out-of-sample mean squared errors of up to 20% relative to a principal components factor model.
@@ -115,6 +80,12 @@ Contact: mlikota@sas.upenn.edu
 
 
 
+
+<!-- ***************************
+     *** LINKS 
+     *************************** -->
+
+
 [JMP-arXiv]: https://arxiv.org/abs/2211.13610
 
 [SMC-MT]: https://www.degruyter.com/document/doi/10.1515/snde-2022-0103/html
@@ -133,6 +104,11 @@ Contact: mlikota@sas.upenn.edu
 [EmailLink]: mailto:mlikota@sas.upenn.edu
 
 
+
+
+<!-- ***************************
+     *** CHANGES TO DEFAULT STYLE
+     *************************** -->
 
 
 <style>
@@ -167,5 +143,67 @@ Contact: mlikota@sas.upenn.edu
   visibility: visible;
 }
 
+/** Links */
+a { color: #8E645F; text-decoration: none; }
+a:visited { color: #8E645F; }
+
 
 </style>
+
+
+
+
+<!-- ***************************
+     *** HELPFUL COMMENTS 
+     *************************** -->
+
+
+<!---
+
+cd Documents/WorkProjects/PersonalWebsite
+bundle exec jekyll serve
+
+Then: http://localhost:4000
+
+
+https://www.w3schools.com/css/css_tooltip.asp
+
+![alt text for screen readers](picture.jpeg "Text to show on mouseover")
+
+
+<p align="center"> blabla </p>
+
+
+%%%%% PICTURES:
+
+<p align="center">
+  <img src="FilesToAdd/picture.jpeg" alt="MarineGEO circle logo" style="width:30%; border: 1px solid black; margin:0 0 0 0"/>
+</p>
+
+<img src="FilesToAdd/picture3.jpg" alt="MarineGEO circle logo" style="float: right; width:38.1966%; border: 1px solid black; margin:0 0 0 0"/>
+
+<p align="center">
+  <a href="url"><img src="FilesToAdd/picture4.jpg" height="auto" width="30%" style="border-radius:50%"></a>
+</p>
+<h2 align="center"> Marko Mlikota</h2>
+
+
+%%%%% LINKS:
+
+[[mlikota@sas.upenn.edu]](mailto:mlikota@sas.upenn.edu)
+
+<a href="https://www.youtube.com/embed/Tg0Ajam946o" target="_BLANK" title="Click me">[Short Video]</a>
+
+% To refer to the page contained in the file "P009_...", which is in the same folder as this file: *<*a h*ref="{*% li*nk P0*09*_YTvideo*.m*arkdown %}">[Sho*rt Vide*o]</*a> (had to put asterisks to prevent this being read as a command...)
+
+
+<font size="3"> This is my text number1</font>
+<span style="color:blue">some *blue* text</span> // see colors in https://htmlcolorcodes.com
+
+<span style="color:#EABC7E; opacity: 0.900;"> <strong>Why Does a Dominant Currency Replace Another?,</strong></span> with A. Mehl & I. van Robays (European Central Bank)
+
+
+
+#8E645F
+
+-->
