@@ -29,9 +29,15 @@ My research interests are in time series econometrics and (international) macro-
 
 Contact: mlikota@sas.upenn.edu
 
-
+<!--
 <br>
 ## Work in Progress
+-->
+
+
+<br>
+## Working Papers
+
 
 <div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> How Does a Dominant Currency Replace Another? Evidence from European Trade,</span> with A. Mehl & I. van Robays (European Central Bank)
   <span class="tooltiptext">
@@ -39,12 +45,8 @@ Contact: mlikota@sas.upenn.edu
   We assess why a dominant currency in international trade invoicing can be replaced with another by contrasting two hypotheses stressed in recent theory: increased trade and reduced exchange rate volatility vis-à-vis the emergent dominant currency area. Our study focuses on 13 European economies that saw marked increases in the use of the euro at the expense of the US dollar for trade invoicing. We show how theory maps itself into a network which links together invoicing currency decisions across countries and develop a fitting Panel-Vector autoregression to jointly model invoicing, trade and exchange rate volatility dynamics across countries, while allowing for cross-country effects emphasized in theory. We identify for each country a “trade shock” and an “exchange rate volatility shock”, finding significant evidence in support of the increased trade hypothesis. Our estimates suggest that in countries where trade with the Euro Area increased, the latter explains almost 40% of the rise in euro invoicing from 1999 to 2019. In contrast, the impact of greater exchange rate stability against the euro is found to be insignificant. Importantly, a country’s invoicing decision is significantly influenced by those of other countries within the regional trade network. This effect operates mainly via bilateral trade linkages rather than strategic complementarities in export price setting, which point to the relevance of changes to input-output linkages in making or breaking dominant currencies.
   </span>
 </div>
-[[WP Draft]](FilesToAdd/MehlMlikotaVanRobays2023_230619.pdf) 
+[[WP Draft]](FilesToAdd/MehlMlikotaVanRobays2023_230619.pdf) [[WP CEPR]][DCSwitches-CEPR]
 
-
-
-<br>
-## Working Papers
 
 
 <div class="tooltip"> <span style="color:#EABC7E; opacity: 0.900;"> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </span>
@@ -86,6 +88,7 @@ Contact: mlikota@sas.upenn.edu
      *** LINKS 
      *************************** -->
 
+[DCSwitches-CEPR]: https://cepr.org/publications/dp18264
 
 [JMP-arXiv]: https://arxiv.org/abs/2211.13610
 
