@@ -9,7 +9,7 @@ layout: home
 
 
 <p align="center">
-  <a href="url"><img src="FilesToAdd/picture5.jpg" height="auto" style=" width:30%; border: 1px solid black; margin:0 0 0 0; border-radius:10%"></a>
+  <a href="url"><img src="FilesToAdd/MarkoMlikota_ECB_YeP_Picture_cropped2.jpg" height="auto" style=" width:30%; border: 1px solid black; margin:0 0 0 0; border-radius:10%"></a>
 </p>
 
 <h2 align="center"> Marko Mlikota</h2>
@@ -19,11 +19,12 @@ layout: home
 Hi!
 
 I'm an Economics Ph.D. student
-at the University of Pennsylvania.
+at the University of Pennsylvania
+and an incoming assistant professor at the Geneva Graduate Institute (IHEID).
 
-My research interests are in time series econometrics and (international) macro-finance. In particular, I analyze the implications of networks for cross-sectional dynamics (think of prices across industries linked by the supply chain network, or economic activity across countries linked via trade and capital flows).
+My research interests are in time series econometrics and empirical macroeconomics. In particular, I'm interested in the relation between economic dynamics and networks (think of prices across industries linked by supply chain relationships, or economic activity across countries linked via trade and capital flows).
 
-[[CV]](FilesToAdd/CV_MM_EN.pdf) [[Research Statement]](FilesToAdd/MM_ResearchStatement_2301.pdf)
+[[CV]](FilesToAdd/CV_MM_EN.pdf) [[Research Statement]](FilesToAdd/MM_ResearchStatement_2307.pdf)
 
 [[Google Scholar]][GoogleScholarLink] [[GitHub]][GitHubProfileLink] [[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
 
@@ -78,7 +79,7 @@ Contact: mlikota@sas.upenn.edu
   We develop a structural VAR in which an occasionally-binding constraint generates censoring of one of the dependent variables. Once the censoring mechanism is triggered, we allow some of the coefficients for the remaining variables to change. We show that a necessary condition for a unique reduced form is that regression functions for the non-censored variables are continuous at the censoring point and that parameters satisfy some mild restrictions. In our application the censored variable is a nominal interest rate constrained by an effective lower bound (ELB). According to our estimates based on U.S. data, once the ELB becomes binding, the coefficients in the inflation equation change significantly, which translates into a change of the inflation responses to (unconventional) monetary policy and demand shocks. Our results suggest that the presence of the ELB is indeed empirically relevant for the propagation of shocks. We also obtain a shadow interest rate that shows a significant accommodation in the early phase of the Great Recession, followed by a mild and steady accommodation until liftoff in 2016.
   </span>
 </div>
-[[Link to Document]][ZLB-VAR] [[WP NBER]][ZLB-VAR-NBER] [[Code]][ZLB-VAR-CodesFrank]
+[[Link to Document]][ZLB-VAR] [[WP NBER]][ZLB-VAR-NBER] [[WP CEPR]][ZLB-VAR-CEPR] [[Code]][ZLB-VAR-CodesFrank]
 
 
 
@@ -99,6 +100,7 @@ Contact: mlikota@sas.upenn.edu
 
 [ZLB-VAR]: https://www.sciencedirect.com/science/article/abs/pii/S0304407621002487?dgcid=author
 [ZLB-VAR-NBER]: https://www.nber.org/papers/w28571
+[ZLB-VAR-CEPR]: https://cepr.org/publications/dp15923
 [ZLB-VAR-CodesFrank]: https://web.sas.upenn.edu/schorf/publications/
 
 [LinkedinProfileLink]: https://www.linkedin.com/in/marko-mlikota-aa13b712a/
