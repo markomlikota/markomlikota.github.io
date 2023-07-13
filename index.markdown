@@ -20,7 +20,7 @@ Hi!
 
 I'm an Economics Ph.D. student
 at the University of Pennsylvania
-and an incoming assistant professor at the Geneva Graduate Institute (IHEID).
+and incoming assistant professor at the Geneva Graduate Institute (IHEID).
 
 My research interests are in time series econometrics and empirical macroeconomics. In particular, I'm interested in the relation between economic dynamics and networks (think of prices across industries linked by supply chain relationships, or economic activity across countries linked via trade and capital flows).
 
@@ -56,7 +56,7 @@ Contact: mlikota@sas.upenn.edu
   Many environments in economics feature a cross-section of units linked by bilateral ties. I develop a framework for studying dynamics of cross-sectional variables exploiting this network structure. It is a vector autoregression in which innovations transmit cross-sectionally only via bilateral links and which can accommodate rich patterns of how network effects of higher order accumulate over time. The model can be used to estimate dynamic network effects, with the network given or inferred from dynamic cross-correlations in the data. It also offers a dimensionality-reduction technique for modeling (cross-sectional) processes, owing to networks' ability to summarize complex relations among units by relatively few non-zero bilateral links. In a first application, I estimate how sectoral productivity shocks transmit along supply chain linkages and affect dynamics of sectoral prices in the US economy. The analysis suggests that network positions can rationalize not only the strength of a sector's impact on aggregates, but also its timing. In a second application, I model industrial production growth across 44 countries by assuming global business cycles are driven by bilateral links which I estimate. This reduces out-of-sample mean squared errors by up to 23% relative to a principal components factor model.
   </span>
 </div>
-[[WP arXiv]][JMP-arXiv]
+[[WP arXiv]][JMP-arXiv]  <a href="{% link P009_YTvideo_NBERSI.markdown %}">[Video NBER SI 2023]</a>
 
 
 
