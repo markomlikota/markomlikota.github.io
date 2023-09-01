@@ -18,9 +18,7 @@ layout: home
 
 Hi!
 
-I'm an Economics Ph.D. student
-at the University of Pennsylvania
-and incoming assistant professor at the Geneva Graduate Institute (IHEID).
+I'm an assistant professor at the Geneva Graduate Institute (Institut de hautes études internationales et du développement, IHEID).
 
 My research interests are in time series econometrics and empirical macroeconomics. In particular, I'm interested in the relation between economic dynamics and networks (think of prices across industries linked by supply chain relationships, or economic activity across countries linked via trade and capital flows).
 
@@ -28,7 +26,7 @@ My research interests are in time series econometrics and empirical macroeconomi
 
 [[Google Scholar]][GoogleScholarLink] [[GitHub]][GitHubProfileLink] [[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
 
-Contact: mlikota@sas.upenn.edu
+Contact: marko.mlikota@graduateinstitute.ch
 
 <!--
 <br>
