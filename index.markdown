@@ -9,7 +9,7 @@ layout: home
 
 
 <p align="center">
-  <a href="url"><img src="FilesToAdd/MarkoMlikota_ECB_YeP_Picture_cropped2.jpg" height="auto" style=" width:30%; border: 1px solid black; margin:0 0 0 0; border-radius:10%"></a>
+  <a href="url"><img src="FilesToAdd/DSC06461_cropped.jpg" height="auto" style=" width:40%; border: 1px solid black; margin:0 0 0 0; border-radius:10%"></a>
 </p>
 
 <h2 align="center"> Marko Mlikota</h2>
@@ -31,6 +31,24 @@ Contact: marko.mlikota@graduateinstitute.ch
 <!--
 <br>
 ## Work in Progress
+-->
+
+
+<!--
+<br>
+## Work in Progress
+
+
+<span style="color:#EABC7E; opacity: 0.900;"> GDP Nowcasts and Supply Chain Pressures </span> 
+
+
+<span style="color:#EABC7E; opacity: 0.900;"> Recovering Peer Effects via High-Frequency Transmission: Households' Consumption Smoothing Through Friendships in Rural Thailand </span>
+
+
+<span style="color:#EABC7E; opacity: 0.900;"> A Workhorse Model Without Nominal Rigidities,</span> joint with J. Ritto (University of Pennsylvania)
+
+
+<span style="color:#EABC7E; opacity: 0.900;"> Sequential Monte Carlo with Model Tempering,</span> joint with S. Scheidegger (University of Lausanne) & F. Schorfheide (University of Pennsylvania)
 -->
 
 
@@ -164,7 +182,7 @@ a:visited { color: #8E645F; }
 
 <!---
 
-cd Documents/WorkProjects/PersonalWebsite
+cd Documents/W_Other/PersonalWebsite
 bundle exec jekyll serve
 
 Then: http://localhost:4000
