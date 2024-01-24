@@ -1,2 +1,40 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+
+
+nav ul {
+    display: flex;
+    List-style: none;
+}
+nav ul li {
+    font-size: 20px;
+    margin-right: 20px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: green;
+}
+
+pptt {
+    color: #ecb165c7;
+    opacity: 0.900;
+}
+
+jjj {
+    color: #e3ccacc7;
+    opacity: 0.900;
+    font-style: italic;
+}
+
+abstr {
+    color: #a09f9fc7;
+    opacity: 0.900;
+    font-size: 12px;
+}
+
+
+/** Links */
+a { color: #8a2e3e; text-decoration: none; }
+a:visited { color: #8a2e3e; }
+
