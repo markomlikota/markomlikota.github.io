@@ -46,7 +46,7 @@ permalink: /research/
 ## Publications
 
 
-<div class="tooltip"> <pptt> Sequential Monte Carlo with Model Tempering,</pptt> Mlikota, M., Schorfheide, F. (2023), <jjj>Studies in Nonlinear Dynamics & Econometrics</jjj><!--, https://doi.org/10.1515/snde-2022-0103-->
+<div class="tooltip"> <pptt> Sequential Monte Carlo with Model Tempering,</pptt> Mlikota, M., Schorfheide, F. (2024), <jjj>Studies in Nonlinear Dynamics & Econometrics</jjj><!--, https://doi.org/10.1515/snde-2022-0103-->
 </div>
 [[Link to Document]][SMC-MT] [[WP arXiv]][SMC-MT-arXiv] [[WP CEPR]][SMC-MT-CEPR] [[Code]][SMC-MT-GitHubCodes]
 <abstr>

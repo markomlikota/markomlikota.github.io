@@ -2,6 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+# To modify colors and styles : _sass/minima/custom-styles.scss
+
 layout: home
 ---
 
@@ -36,7 +38,7 @@ My research interests are in time series econometrics and empirical macroeconomi
 
 [[CV]](FilesToAdd/CV_MM_EN.pdf) [[Research Statement]](FilesToAdd/MM_ResearchStatement_2307.pdf)
 
-[[Google Scholar]][GoogleScholarLink] [[GitHub]][GitHubProfileLink] [[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
+[[Google Scholar]][GoogleScholarLink] [[ORCID]][ORCIDProfileLink] [[GitHub]][GitHubProfileLink] [[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
 
 Contact: marko.mlikota@graduateinstitute.ch
 
@@ -62,6 +64,7 @@ Contact: marko.mlikota@graduateinstitute.ch
 [TwitterProfileLink]: https://twitter.com/marko25mlikota
 [GoogleScholarLink]: https://scholar.google.com/citations?hl=en&user=IFrID1kAAAAJ
 [EmailLink]: mailto:mlikota@sas.upenn.edu
+[ORCIDProfileLink]: https://orcid.org/0009-0007-5456-0037
 
 
 
