@@ -23,4 +23,12 @@ If you need a letter to apply for a Swiss Scholarship or more information about 
 
 
 
-[AdmissionsWebsiteLink]: ​https://www.graduateinstitute.ch/admissions
+
+
+
+<!-- ***************************
+     *** LINKS 
+     *************************** -->
+
+[AdmissionsWebsiteLink]: https://www.graduateinstitute.ch/admissions/
+<!-- note: need to add / at end for the link to work...>

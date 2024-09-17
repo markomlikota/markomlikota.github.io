@@ -17,7 +17,7 @@ permalink: /teaching/
 <br>
 
 
-## Useful Resources
+## Resources
 
 
 [[R Tutorial & Collection of Useful Commands]](FilesToAdd/R-Tutorial.html){:target="_blank"}
