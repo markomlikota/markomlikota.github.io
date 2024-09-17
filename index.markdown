@@ -36,7 +36,7 @@ I'm an assistant professor at the Geneva Graduate Institute (<i>Institut de haut
 My research interests are in time series econometrics and empirical macroeconomics. <!--In particular, I'm interested in the relation between economic dynamics and networks (think of prices across industries linked by supply chain relationships, or economic activity across countries linked via trade and capital flows).
 -->
 
-[[CV]](FilesToAdd/CV_MM_EN.pdf) [[Research Statement]](FilesToAdd/MM_ResearchStatement_2307.pdf)
+[[CV]](FilesToAdd/CV_MM_EN.pdf) <!--[[Research Statement]](FilesToAdd/MM_ResearchStatement_2307.pdf)-->
 
 [[Google Scholar]][GoogleScholarLink] [[ORCID]][ORCIDProfileLink] [[GitHub]][GitHubProfileLink] [[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
 
