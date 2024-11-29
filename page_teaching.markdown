@@ -22,6 +22,8 @@ permalink: /teaching/
 
 [[R Tutorial & Collection of Useful Commands]](FilesToAdd/R-Tutorial.html){:target="_blank"}
 
+[[Term Paper Guidelines]](FilesToAdd/MM_TermPaperGuidelines.pdf)
+
 <a href="{% link page_teaching_PhDapps.markdown %}"> [PhD Applications & "Swiss Scholarships"] </a>
 
 <!--

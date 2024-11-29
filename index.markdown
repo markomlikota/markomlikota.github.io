@@ -17,6 +17,11 @@ layout: home
 </nav>
 ---
 
+<br>
+
+**!!! I'm hiring a PhD student to start in Fall 2025. See [[Call for Applications]](FilesToAdd/P0134_SNF Mlikota_CallForApplications_PhDStudent_MarkoMlikota_final_for Career.pdf) !!!**
+
+<br>
 
 <p align="center">
   <a href="url"><img src="FilesToAdd/DSC06461_cropped.jpg" height="auto" style=" width:40%; border: 1px solid black; margin:0 0 0 0; border-radius:10%"></a>
@@ -52,7 +57,6 @@ In particular, ...
 Contact: marko.mlikota@graduateinstitute.ch
 
 [[Google Scholar]][GoogleScholarLink] [[ORCID]][ORCIDProfileLink] [[GitHub]][GitHubProfileLink] [[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
-
 
 
 
