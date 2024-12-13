@@ -41,11 +41,12 @@ The following syllabi refer to the courses' most recent versions. They evolved (
 <div class="tooltip"> <pptt> Econometrics I </pptt> (Master, core course) <br> <jjj>(Fall 2024)</jjj>
 </div>
 <abstr>
-  This is the first of two compulsory econometrics courses for first year master students. 
+  This is the first of two compulsory econometrics courses for first-year master students. 
   It starts by discussing the basics of probability theory and (classical) statistical inference (point estimation, uncertainty quantification and hypothesis testing, in finite samples and asymptotically). 
-  It then proceeds to the ordinary least squares estimation of the linear regression model, including a brief treatment of instrumental variables and generalized method of moments estimation. 
-  Finally, the course discusses maximum likelihood estimation, as applied to the linear regression model as well as to models of binary and censored outcomes. 
+  It then proceeds to the ordinary least squares estimation of the linear regression model.
+  Next, the course discusses maximum likelihood estimation, as applied to the linear regression model, to models of binary and censored outcomes as well as to generic models of interest.
   This includes a discussion of numerical optimization methods and asymptotic properties obtained via extremum estimation theory.
+  Finally, the course treats instrumental variables and generalized method of moments estimation.
   Assessment is based on two exams and bi-weekly problem sets. 
   By analyzing foundational models and concepts in-depth and emphasizing the practical (numerical) implementation of inference procedures, the course allows students to easily apply their knowledge to non-standard settings, tailored to their application of interest.
 </abstr>
@@ -55,11 +56,12 @@ The following syllabi refer to the courses' most recent versions. They evolved (
 <div class="tooltip"> <pptt> Econometrics II </pptt> (Master, core course) <br> <jjj>(Spring 2024, 2025)</jjj>
 </div>
 <abstr>
-  This is the second of two compulsory econometrics courses for first year master students. 
-  It starts with causal inference, introducing the potential outcomes framework and ideal and natural experiments. This includes a discussion of randomized controlled trials, instrumental variables estimation, regression discontinuity designs, difference-in-differences and matching methods. 
-  Next, the course treats the basics of panel data analysis (incidental parameters problem, pooled OLS, fixed effects, random effects). 
-  The final part of the course is devoted to univariate time series models, also including a brief discussion of reduced-form and structural vector autoregressions.
+  This is the second of two compulsory econometrics courses for first-year master students. 
+  It starts with a brief treatment of causal inference, introducing the potential outcomes framework and the concepts of ideal and natural experiments. Thereby, it compares non-parametric causal inference approaches and parametric models like the linear regression, in particular with regard to their respective use of covariates and instrumental variables.
+  Next, the course treats inference with time series data. It covers time series regressions, univariate time series models as well as reduced-form and structural vector autoregressions.
+  The final part of the course is devoted to the basics of panel data analysis (incidental parameters problem, pooled OLS, fixed effects, random effects).
   Assessment is based on two exams and bi-weekly problem sets. 
+  By analyzing foundational models and concepts in-depth and emphasizing the practical (numerical) implementation of inference procedures, the course allows students to easily apply their knowledge to non-standard settings, tailored to their application of interest.
 </abstr>
 
 <br>
@@ -72,7 +74,7 @@ The following syllabi refer to the courses' most recent versions. They evolved (
   Next, the course deals with multivariate and nonlinear time series models (incl. vector autoregressions, dynamic factor models and models with time-varying parameters like regime-switching-, stochastic volatility- and conditional heteroskedasticity-models), as part of which it discusses cointegration and state space model estimation.
   Finally, the course introduces Machine Learning methods and nonparametric estimation. This encompasses Kernel Smoothing Methods, Regression Trees and Random Forests, Neural Networks and Classification Analysis. 
   Time permitting, the course may cover other topics of students’ interest (e.g. models of multinomial choice, sample selection models, duration models, advanced instrumental variables methods, quantile regression, synthetic controls, …).
-  Assessment is based on bi-weekly problem sets and an individual project, where students apply a method from the course to their application of interest. 
+  Assessment is based on problem sets and an individual project, where students apply a method from the course to their application of interest. 
 </abstr>
 
 <br>
