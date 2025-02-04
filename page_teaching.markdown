@@ -35,7 +35,7 @@ permalink: /teaching/
 
 ## Courses I Teach/Taught
 
-The following syllabi refer to the courses' most recent versions. They evolved (slightly) over time.
+The following descriptions refer to the courses' most recent versions. They evolved (slightly) over time.
 
 
 <div class="tooltip"> <pptt> Econometrics I </pptt> (Master, core course) <br> <jjj>(Fall 2024)</jjj>

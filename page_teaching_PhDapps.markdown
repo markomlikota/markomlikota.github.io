@@ -16,8 +16,7 @@ permalink: /teaching_PhDapps/
 
 
 Admissions to the PhD program at the Geneva Graduate Institute are not decided by individual professors. There is a process which starts with a formal application (click [[here]][AdmissionsWebsiteLink] for more information). Each application is then evaluated by a group of professors who also decide on admission.
-
-​Hence, I am unable to supervise students who are not enrolled in our program or commit to supervise students who have not yet been admitted.
+​Hence, I am unable to commit to supervise students who have not yet been admitted.
 ​
 If you need a letter to apply for a Swiss Scholarship or more information about the applications process, please contact the admission office at: prospective@graduateinstitute.ch
 

@@ -38,7 +38,22 @@ permalink: /researchShowAbstracts/
 </div>
 [[WP arXiv]][JMP-arXiv]  <a href="{% link P009_YTvideo_NBERSI.markdown %}">[Video NBER SI 2023]</a>
 <abstr>
-    Many environments in economics feature a cross-section of units linked by bilateral ties. I develop a framework for studying dynamics of cross-sectional variables exploiting this network structure. It is a vector autoregression in which innovations transmit cross-sectionally only via bilateral links and which can accommodate rich patterns of how network effects of higher order accumulate over time. The model can be used to estimate dynamic network effects, with the network given or inferred from dynamic cross-correlations in the data. It also offers a dimensionality-reduction technique for modeling (cross-sectional) processes, owing to networks' ability to summarize complex relations among units by relatively few non-zero bilateral links. In a first application, I estimate how sectoral productivity shocks transmit along supply chain linkages and affect dynamics of sectoral prices in the US economy. The analysis suggests that network positions can rationalize not only the strength of a sector's impact on aggregates, but also its timing. In a second application, I model industrial production growth across 44 countries by assuming global business cycles are driven by bilateral links which I estimate. This reduces out-of-sample mean squared errors by up to 23% relative to a principal components factor model.
+    Many environments in economics feature a cross-section of units linked by bilateral ties.
+  I develop an econometric framework that rationalizes the dynamics of cross-sectional
+  variables as the innovation transmission along fixed bilateral links and that can accommodate rich patterns of how network eﬀects of higher order accumulate over time. The
+  proposed Network-VAR (NVAR) can be used to estimate dynamic network eﬀects, with
+  the network given or inferred from dynamic cross-correlations in the data. In the latter
+  case, it also oﬀers a dimensionality-reduction technique for modeling high-dimensional
+  (cross-sectional) processes, owing to networks’ ability to summarize complex relations
+  among variables (units) by relatively few bilateral links. In a first application, I show
+  that the NVAR approximates the process of sectoral output in an RBC economy with
+  lagged input-output conversion. In turn, I quantify the extent to which business cycles are due to the lagged transmission of productivity shocks along supply chains as
+  opposed to exogenous persistence in idiosyncratic and aggregate productivity shocks.
+  In a second application, I forecast macroeconomic aggregates across OECD countries
+  by assuming and estimating a network that underlies the dynamics. In line with an
+  equivalence result I provide, this reduces out-of-sample mean squared errors relative
+  to a dynamic factor model, with reductions ranging from -12% for quarterly real GDP
+  growth to -68% for CPI inflation.
 </abstr>
 
 

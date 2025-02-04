@@ -19,10 +19,6 @@ layout: home
 
 <br>
 
-**!!! I'm hiring a PhD student to start in Fall 2025. See [[Call for Applications]](FilesToAdd/2411_CallForApplications_PhDStudent_MarkoMlikota.pdf) !!!**
-
-<br>
-
 <p align="center">
   <a href="url"><img src="FilesToAdd/DSC06461_cropped.jpg" height="auto" style=" width:40%; border: 1px solid black; margin:0 0 0 0; border-radius:10%"></a>
 </p>
@@ -106,10 +102,14 @@ Contact: marko.mlikota@graduateinstitute.ch
 
 <!---
 
-cd Documents/W_Other/PersonalWebsite
+cd Dropbox/W_Other/PersonalWebsite
 bundle exec jekyll serve
 
 http://localhost:4000
+
+% if issues encountered with hosting:
+% https://jekyllrb.com/docs/installation/macos/
+
 
 
 https://www.w3schools.com/css/css_tooltip.asp
