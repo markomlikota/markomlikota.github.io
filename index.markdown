@@ -40,15 +40,11 @@ In 2022 and 2024-2025, I also held consulting positions at the European Central 
 [[CV]](FilesToAdd/CV_MM_EN.pdf) 
 
 
-My research interests are in time series econometrics and empirical macroeconomics. 
-<!-- 
-In particular, ... 
--->
+My research interests are in time series econometrics and empirical macroeconomics.
+I develop existing methodology further and apply it to empirically relevant questions, typically in tight connection with macroeconomic theory.
+I am particularly drawn to the relation between networks and dynamics.
 
-<!--
-[[Research Statement]](FilesToAdd/MM_ResearchStatement_2307.pdf)
--->
-
+[[Research Statement]](FilesToAdd/MM_ResearchStatement_2502.pdf)
 
 Contact: marko.mlikota@graduateinstitute.ch
 
