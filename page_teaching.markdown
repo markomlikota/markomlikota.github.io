@@ -81,6 +81,6 @@ The following descriptions refer to the courses' most recent versions. They evol
 <div class="tooltip"> <pptt> Advanced Quantitative Methods </pptt> (Interdisciplinary Master, elective course) <br> <jjj>(Spring 2025)</jjj>
 </div>
 <abstr>
-  This course builds on the course "Statistical Literacy" by introducing the fundamentals of econometrics. After taking this course, students will be familiar with a wide variety of tools -- such as OLS regressions and the basics of panel data techniques -- that are used by social scientists to answer real world questions. The emphasis lies on understanding the assumptions behind common techniques; developing skills to read and understand quantitative academic papers; and analyzing interesting datasets using statistical software.
+  Building on the compulsory course “Statistical Literacy”, this course introduces the fundamentals of econometrics. It discusses OLS regressions and the basics of panel data techniques, which are commonly used by social scientists to answer real world questions. The emphasis lies on understanding the assumptions behind these methods, on developing the skills to read and understand quantitative academic papers, and on analyzing interesting datasets using statistical software.
 </abstr>
 
