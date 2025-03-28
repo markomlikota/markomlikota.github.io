@@ -31,7 +31,7 @@ permalink: /research/
 
 <div class="tooltip"> <pptt> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </pptt>
 </div>
-[[WP newest version]](FilesToAdd/MM_P009_250320.pdf) [[WP arXiv]][JMP-arXiv] 
+[[WP arXiv]][JMP-arXiv] 
 
 
 <br>

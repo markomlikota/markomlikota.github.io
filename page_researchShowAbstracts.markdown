@@ -36,7 +36,7 @@ permalink: /researchShowAbstracts/
 <br>
 <div class="tooltip"> <pptt> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </pptt>
 </div>
-[[WP newest version]](FilesToAdd/MM_P009_250320.pdf) [[WP arXiv]][JMP-arXiv] 
+[[WP arXiv]][JMP-arXiv] 
 <abstr>
 Many environments in economics involve units linked by bilateral ties. I develop an
 econometric framework that rationalizes the dynamics of cross-sectional variables as
