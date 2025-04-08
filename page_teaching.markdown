@@ -38,7 +38,7 @@ permalink: /teaching/
 The following descriptions refer to the courses' most recent versions. They evolved (slightly) over time.
 
 
-<div class="tooltip"> <pptt> Econometrics I </pptt> (Master, core course) <br> <jjj>(Fall 2024)</jjj>
+<div class="tooltip"> <pptt> Econometrics I </pptt>  <br> Master, core course <br> <jjj>Fall '24, '25</jjj>
 </div>
 <abstr>
   This is the first of two compulsory econometrics courses for first-year master students. 
@@ -52,7 +52,7 @@ The following descriptions refer to the courses' most recent versions. They evol
 
 <br>
 
-<div class="tooltip"> <pptt> Econometrics II </pptt> (Master, core course) <br> <jjj>(Spring 2024, 2025)</jjj>
+<div class="tooltip"> <pptt> Econometrics II </pptt>  <br> Master, core course <br> <jjj>Spring '24, '25, '26</jjj>
 </div>
 <abstr>
   This is the second of two compulsory econometrics courses for first-year master students. 
@@ -65,7 +65,7 @@ The following descriptions refer to the courses' most recent versions. They evol
 
 <br>
 
-<div class="tooltip"> <pptt> Topics in Econometrics </pptt> (Master, elective course) <br> <jjj>(Fall 2023, 2024)</jjj>
+<div class="tooltip"> <pptt> Topics in Econometrics </pptt>  <br> Master, elective course <br> <jjj>Fall '23, '24, '25</jjj>
 </div>
 <abstr>
   This course discusses further topics in econometrics, building on the foundational concepts introduced in two compulsory econometrics courses for master students.
@@ -78,7 +78,7 @@ The following descriptions refer to the courses' most recent versions. They evol
 
 <br>
 
-<div class="tooltip"> <pptt> Advanced Quantitative Methods </pptt> (Interdisciplinary Master, elective course) <br> <jjj>(Spring 2025)</jjj>
+<div class="tooltip"> <pptt> Advanced Quantitative Methods </pptt>  <br> Interdisciplinary Master, elective course <br> <jjj>Spring '25, '26</jjj>
 </div>
 <abstr>
   Building on the compulsory course “Statistical Literacy”, this course introduces the fundamentals of econometrics. It discusses OLS regressions and the basics of panel data techniques, which are commonly used by social scientists to answer real world questions. The emphasis lies on understanding the assumptions behind these methods, on developing the skills to read and understand quantitative academic papers, and on analyzing interesting datasets using statistical software.
