@@ -15,9 +15,7 @@ permalink: /software/
 
 # Software
 
-<br>
-
+(open html files preferably on computer/laptop)
 
 
 [[R Tutorial & Collection of Useful Commands]](FilesToAdd/R-Tutorial.html){:target="_blank"}
-
