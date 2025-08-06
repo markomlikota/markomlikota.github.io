@@ -32,7 +32,7 @@ layout: home
 
 Hi!
 
-I'm an assistant professor at the Economics Department of the Geneva Graduate Institute (<i>Institut de hautes études internationales et du développement, IHEID</i>).
+I'm an Assistant Professor of Economics at the Geneva Graduate Institute (<i>Institut de hautes études internationales et du développement, IHEID</i>).
 <!-- 
 I'm also engaged in the BCC Programme ...
 In 2022 and 2024-2025, I also held consulting positions at the European Central Bank.
@@ -41,15 +41,20 @@ In 2022 and 2024-2025, I also held consulting positions at the European Central 
 [[CV]](FilesToAdd/CV_MM_EN.pdf) 
 
 
-My research interests are in time series econometrics and empirical macroeconomics.
-I develop existing methodology further and apply it to empirically relevant questions, typically in tight connection with macroeconomic theory.
+My research interests are in time series econometrics and macroeconomics.
+In short, I develop econometric methodology and apply it to empirically relevant questions, typically in tight connection with macroeconomic theory.
 I am particularly drawn to the relation between networks and dynamics.
 
 [[Research Statement]](FilesToAdd/MM_ResearchStatement_2502.pdf)
 
+[[Google Scholar]][GoogleScholarLink] [[ORCID]][ORCIDProfileLink] 
+
+[[GitHub]][GitHubProfileLink]
+
+
 Contact: marko.mlikota@graduateinstitute.ch
 
-[[Google Scholar]][GoogleScholarLink] [[ORCID]][ORCIDProfileLink] [[GitHub]][GitHubProfileLink] [[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
+[[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
 
 
 
