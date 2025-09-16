@@ -22,6 +22,8 @@ permalink: /teaching/
 
 [[Term Paper Guidelines]](FilesToAdd/MM_TermPaperGuidelines.pdf)
 
+<a href="{% link page_teaching_NoteOnAITools.markdown %}"> [Note on the Use of "AI"-Tools in Econometrics Courses] </a>
+
 <a href="{% link page_teaching_PhDapps.markdown %}"> [PhD Applications & "Swiss Scholarships"] </a>
 
 <!--

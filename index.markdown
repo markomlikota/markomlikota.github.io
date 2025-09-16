@@ -62,14 +62,6 @@ Contact: marko.mlikota@graduateinstitute.ch
 
 
 
-
-
-
-
-
-
-
-
 <!-- ***************************
      *** LINKS 
      *************************** -->
@@ -80,16 +72,6 @@ Contact: marko.mlikota@graduateinstitute.ch
 [GoogleScholarLink]: https://scholar.google.com/citations?hl=en&user=IFrID1kAAAAJ
 [EmailLink]: mailto:mlikota@sas.upenn.edu
 [ORCIDProfileLink]: https://orcid.org/0009-0007-5456-0037
-
-
-
-
-
-
-
-
-
-
 
 
 
