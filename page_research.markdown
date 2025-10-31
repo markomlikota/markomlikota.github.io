@@ -23,21 +23,24 @@ permalink: /research/
 
 
 <br>
+
 ## Work in Progress
 
 <pptt> Modeling Product-Level Inflation Dynamics Along Supply Chains </pptt>
 Mlikota, M., Zhang, X. 
 
 
-<pptt> Origins and Nature of Parameter Instability in Vector Autoregressions </pptt>
-Amir-Ahmadi, P., Mlikota, M., Stevanović, D.
-
-
 <pptt> Sequential ABCs to Estimate Nonlinear DSGEs </pptt>
 Mlikota, M., Scheidegger, S., Schorfheide, F. 
 
 
+<pptt> Origins and Nature of Parameter Instability in Vector Autoregressions </pptt>
+Amir-Ahmadi, P., Mlikota, M., Stevanović, D.
+
+
+
 <br>
+
 ## Working Papers
 
 <pptt> How Does a Dominant Currency Replace Another? Evidence from European Trade </pptt>
@@ -50,7 +53,9 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 [[WP arXiv]][JMP-arXiv] 
 
 
+
 <br>
+
 ## Publications
 
 

@@ -52,7 +52,7 @@ I am particularly drawn to the relation between networks and dynamics.
 [[GitHub]][GitHubProfileLink]
 
 
-Contact: marko.mlikota@graduateinstitute.ch
+Contact: marko.mlikota AT graduateinstitute DOT ch
 
 [[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
 

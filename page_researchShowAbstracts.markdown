@@ -26,21 +26,27 @@ permalink: /researchShowAbstracts/
 <br>
 ## Work in Progress
 
+
 <pptt> Modeling Product-Level Inflation Dynamics Along Supply Chains </pptt>
 Mlikota, M., Zhang, X. 
-
-
-<pptt> Origins and Nature of Parameter Instability in Vector Autoregressions </pptt>
-Amir-Ahmadi, P., Mlikota, M., Stevanović, D.
 
 
 <pptt> Sequential ABCs to Estimate Nonlinear DSGEs </pptt>
 Mlikota, M., Scheidegger, S., Schorfheide, F. 
 
 
+<pptt> Origins and Nature of Parameter Instability in Vector Autoregressions </pptt>
+Amir-Ahmadi, P., Mlikota, M., Stevanović, D.
+<abstr>
+  For a general class of dynamic and stochastic macroeconomic models, we show that (i) non-linearity in economic dynamics is a necessary and sufficient condition for time-varying parameters (TVPs) in the VARMA process followed by observables, and (ii) all parameters’ time-variation is driven by the same, typically few sources of stochasticity: the shocks in the macroeconomic model. Motivated by these results, we model a set of macroeconomic and financial variables as a TVP-VAR with a factor-structure in TVPs. This reveals that most instabilities are driven by a few factors, which comove strongly with measures of macroeconomic uncertainty and the contribution of finance to real economic activity. Furthermore, relative to the TVP-VAR with TVPs evolving as independent random walks, our model delivers an improved forecasting performance.
+</abstr>
+
+
+
 
 <br>
 ## Working Papers
+
 
 <pptt> How Does a Dominant Currency Replace Another? Evidence from European Trade </pptt>
 <div> Mehl, A., Mlikota, M., van Robays, I. (2023) </div>
@@ -49,32 +55,16 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
   We assess why a dominant currency in international trade invoicing can be replaced with another by contrasting two hypotheses stressed in recent theory: increased trade and reduced exchange rate volatility vis-à-vis the emergent dominant currency area. Our study focuses on 13 European economies that saw marked increases in the use of the euro at the expense of the US dollar for trade invoicing. We show how theory maps itself into a network which links together invoicing currency decisions across countries and develop a fitting Panel-Vector autoregression to jointly model invoicing, trade and exchange rate volatility dynamics across countries, while allowing for cross-country effects emphasized in theory. We identify for each country a “trade shock” and an “exchange rate volatility shock”, finding significant evidence in support of the increased trade hypothesis. Our estimates suggest that in countries where trade with the Euro Area increased, the latter explains almost 40% of the rise in euro invoicing from 1999 to 2019. In contrast, the impact of greater exchange rate stability against the euro is found to be insignificant. Importantly, a country’s invoicing decision is significantly influenced by those of other countries within the regional trade network. This effect operates mainly via bilateral trade linkages rather than strategic complementarities in export price setting, which point to the relevance of changes to input-output linkages in making or breaking dominant currencies.
 </abstr>
 
+
 <br>
 
 <pptt> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </pptt>
 <div> Mlikota, M. (2025) </div>
 [[WP arXiv]][JMP-arXiv] 
 <abstr>
-Many environments in economics involve units linked by bilateral ties. I develop an
-econometric framework that rationalizes the dynamics of cross-sectional variables as
-the innovation transmission along fixed bilateral links and that can accommodate rich
-patterns of how network eﬀects of higher order accumulate over time. The proposed
-Network-VAR (NVAR) can be used to estimate dynamic network eﬀects, with the
-network given or inferred from dynamic cross-correlations in the data. In the latter
-case, it also oﬀers a dimensionality-reduction technique for modeling high-dimensional
-(cross-sectional) processes, owing to networks’ ability to summarize complex relations
-among variables (units) by relatively few bilateral links. In a first application, I show
-that sectoral output growth in an RBC economy with lagged input-output conversion
-follows an NVAR. I characterize impulse-responses to TFP shocks in this environment,
-and I estimate that the lagged transmission of productivity shocks along supply chains
-can account for a third of the persistence in aggregate output growth. The remainder is
-due to persistence in the aggregate TFP process, leaving a negligible role for persistence
-in sectoral TFP. In a second application, I forecast macroeconomic aggregates across
-OECD countries by assuming and estimating a network that underlies the dynamics.
-In line with an equivalence result I provide, this reduces out-of-sample mean squared
-errors relative to a dynamic factor model. The reductions range from -12% for quarterly
-real GDP growth to -68% for monthly CPI inflation.
+  Many environments in economics involve units linked by bilateral ties. I develop an econometric framework that rationalizes the dynamics of cross-sectional variables as the innovation transmission along fixed bilateral links and that can accommodate rich patterns of how network effects of higher order accumulate over time. The proposed Network-VAR (NVAR) can be used to estimate dynamic network effects, with the network given or inferred from dynamic cross-correlations in the data. In the latter case, it also offers a dimensionality-reduction technique for modeling high-dimensional (cross-sectional) processes, owing to networks’ ability to summarize complex relations among variables (units) by relatively few bilateral links. In a first application, I show that sectoral output growth in an RBC economy with lagged input-output conversion follows an NVAR. I characterize impulse-responses to TFP shocks, and I estimate that the lagged transmission of productivity shocks along supply chains can account for 61% of aggregate output growth persistence. The remainder is due to persistence in the aggregate TFP process, leaving a negligible role for persistence in sectoral TFP. In a second application, I forecast macroeconomic aggregates across OECD countries by assuming and estimating a network that underlies the dynamics. In line with an equivalence result I provide, this reduces out-of-sample mean squared errors relative to a dynamic factor model. The reductions range from -12% for quarterly real GDP growth to -68% for monthly CPI inflation.
 </abstr>
+
 
 
 <br>
@@ -89,7 +79,6 @@ real GDP growth to -68% for monthly CPI inflation.
 <abstr>
   Modern macroeconometrics often relies on time series models for which it is time-consuming to evaluate the likelihood function. We demonstrate how Bayesian computations for such models can be drastically accelerated by reweighting and mutating posterior draws from an approximating model that allows for fast likelihood evaluations, into posterior draws from the model of interest, using a sequential Monte Carlo (SMC) algorithm. We apply the technique to the estimation of a vector autoregression with stochastic volatility and two nonlinear dynamic stochastic general equilibrium models. The runtime reductions we obtain range from 27% to 88%.
 </abstr>
-
 
 
 <br>

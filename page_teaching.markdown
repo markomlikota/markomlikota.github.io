@@ -33,10 +33,26 @@ permalink: /teaching/
 <br>
 
 
-## Courses I Teach/Taught
+## Workshops I Teach (Taught)
 
-Descriptions refer to courses' most recent versions. They evolved (slightly) over time.
+<div class="tooltip"> <pptt> "Eﬃcient Programming in Julia" </pptt> <br> <jjj> Geneva Graduate Institute (Oct. '25)</jjj>
+</div>
+[[Syllabus]](FilesToAdd/TechClinic_ProgJulia.pdf)
+<br>
 
+
+<div class="tooltip"> <pptt> "Julia for Macroeconomic Policy Analysis" </pptt> <br> <jjj> European Central Bank (Nov. '25) </jjj>
+</div>
+[[Syllabus]](FilesToAdd/251028_SyllabusJuliaWorkshopECB.pdf)
+<br>
+
+
+<br>
+
+
+## Academic Courses I Teach (Taught)
+
+Descriptions refer to the most recent version of the respective course. They evolved (slightly) over time.
 
 <div class="tooltip"> <pptt> Econometrics I </pptt>  <br> Master, core course <br> <jjj>Fall '24, '25</jjj>
 </div>

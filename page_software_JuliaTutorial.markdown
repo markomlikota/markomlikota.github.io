@@ -37,7 +37,7 @@ All underlying codes are available [[here]](https://github.com/markomlikota/Codi
 
 [[8 Further Object Types]](FilesToAdd/Julia-Tutorial_Sec08_FurtherObjecTypes.html)
 
-[[9 Path- Folder & Workspace-Management]](FilesToAdd/Julia-Tutorial_Sec09_PathFolderWorkspaceManagement.html)
+[[9 Path-, Folder- & Workspace-Management]](FilesToAdd/Julia-Tutorial_Sec09_PathFolderWorkspaceManagement.html)
 
 [[10 Storing & Loading Data]](FilesToAdd/Julia-Tutorial_Sec10_StoringLoadingData.html)
 
