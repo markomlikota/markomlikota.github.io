@@ -20,4 +20,4 @@ The repository [["CodingSoftware"]](https://github.com/markomlikota/CodingSoftwa
 
 <a href="{% link page_software_RTutorial.markdown %}"> [R-Tutorial] </a>
 
-<a href="{% link page_software_JuliaTutorial.markdown %}"> [Julia-Tutorial (with Exercises)] </a>
+<a href="{% link page_software_JuliaTutorial.markdown %}"> [Julia-Tutorial] </a>
