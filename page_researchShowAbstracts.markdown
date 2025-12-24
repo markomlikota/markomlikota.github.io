@@ -24,29 +24,39 @@ permalink: /researchShowAbstracts/
 
 
 <br>
-## Work in Progress
 
+## Work in Progress
 
 <pptt> Modeling Product-Level Inflation Dynamics Along Supply Chains </pptt>
 Mlikota, M., Zhang, X. 
-
 
 <pptt> Sequential ABCs to Estimate Nonlinear DSGEs </pptt>
 Mlikota, M., Scheidegger, S., Schorfheide, F. 
 
 
-<pptt> Origins and Nature of Parameter Instability in Vector Autoregressions </pptt>
-Amir-Ahmadi, P., Mlikota, M., Stevanović, D.
-<abstr>
-  For a general class of dynamic and stochastic macroeconomic models, we show that (i) non-linearity in economic dynamics is a necessary and sufficient condition for time-varying parameters (TVPs) in the VARMA process followed by observables, and (ii) all parameters’ time-variation is driven by the same, typically few sources of stochasticity: the shocks in the macroeconomic model. Motivated by these results, we model a set of macroeconomic and financial variables as a TVP-VAR with a factor-structure in TVPs. This reveals that most instabilities are driven by a few factors, which comove strongly with measures of macroeconomic uncertainty and the contribution of finance to real economic activity. Furthermore, relative to the TVP-VAR with TVPs evolving as independent random walks, our model delivers an improved forecasting performance.
-</abstr>
-
-
-
-
 <br>
+
+
+
 ## Working Papers
 
+<pptt> Origins and Nature of Parameter Instability in Vector Autoregressions </pptt>
+<div> Amir-Ahmadi, P., Mlikota, M., Stevanović, D. (2025) </div>
+[[WP arXiv]][AAMS-arXiv]
+<abstr>
+  For a general class of dynamic and stochastic structural models, we show that (i) non-linearity in economic dynamics is a necessary and suﬃcient condition for time-varying parameters (TVPs) in the reduced-form VARMA process followed by observables, and (ii) all parameters’ time-variation is driven by the same, typically few sources of stochasticity: the structural shocks. Our results call into question the common interpretation that TVPs are due to “structural instabilities”. Motivated by our theoretical analysis, we model a set of macroeconomic and financial variables as a TVP-VAR with a factor-structure in TVPs. This reveals that most instabilities are driven by a few factors, which comove strongly with measures of macroeconomic uncertainty and the contribution of finance to real economic activity, commonly emphasized as important sources of non-linearities in macroeconomics. Furthermore, our model yields improved forecasts relative to the standard TVP-VAR where TVPs evolve as independent random walks.
+</abstr>
+
+<br>
+
+<pptt> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </pptt>
+<div> Mlikota, M. (2025) </div>
+[[WP arXiv]][JMP-arXiv] 
+<abstr>
+  Many economic environments involve units linked by a network. I develop an econometric framework that derives the dynamics of cross-sectional variables from the lagged innovation transmission along fixed bilateral links and that can accommodate general patterns of how higher-order network effects accumulate over time. The proposed NVAR rationalizes the SAR model as the limit under an infinitely high frequency of lagged network interactions. The factor-representation of the NVAR suggests that at the cost of restricting factor dynamics, it naturally incorporates sparse factors as locally important nodes in the network. The NVAR can be used to estimate dynamic network effects. When the network is estimated as well, it also offers a dimensionality-reduction technique for modeling high-dimensional processes. In a first application, I show that sectoral output in an RBC economy with lagged input-output conversion follows an NVAR. In turn, I estimate that the dynamic transmission of TFP shocks along supply chains accounts for 61% of persistence in aggregate output growth, leaving minor roles for autocorrelation in exogenous TFP processes. In a second application, I forecast macroeconomic aggregates across OECD countries by estimating a network behind global business cycle dynamics. This reduces out-of-sample MSEs for one-step ahead forecasts relative to a dynamic factor model by -12% (quarterly real GDP growth) to -68% (monthly CPI inflation).
+</abstr>
+
+<br>
 
 <pptt> How Does a Dominant Currency Replace Another? Evidence from European Trade </pptt>
 <div> Mehl, A., Mlikota, M., van Robays, I. (2023) </div>
@@ -58,19 +68,9 @@ Amir-Ahmadi, P., Mlikota, M., Stevanović, D.
 
 <br>
 
-<pptt> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </pptt>
-<div> Mlikota, M. (2025) </div>
-[[WP arXiv]][JMP-arXiv] 
-<abstr>
-  Many environments in economics involve units linked by bilateral ties. I develop an econometric framework that rationalizes the dynamics of cross-sectional variables as the innovation transmission along fixed bilateral links and that can accommodate rich patterns of how network effects of higher order accumulate over time. The proposed Network-VAR (NVAR) can be used to estimate dynamic network effects, with the network given or inferred from dynamic cross-correlations in the data. In the latter case, it also offers a dimensionality-reduction technique for modeling high-dimensional (cross-sectional) processes, owing to networks’ ability to summarize complex relations among variables (units) by relatively few bilateral links. In a first application, I show that sectoral output growth in an RBC economy with lagged input-output conversion follows an NVAR. I characterize impulse-responses to TFP shocks, and I estimate that the lagged transmission of productivity shocks along supply chains can account for 61% of aggregate output growth persistence. The remainder is due to persistence in the aggregate TFP process, leaving a negligible role for persistence in sectoral TFP. In a second application, I forecast macroeconomic aggregates across OECD countries by assuming and estimating a network that underlies the dynamics. In line with an equivalence result I provide, this reduces out-of-sample mean squared errors relative to a dynamic factor model. The reductions range from -12% for quarterly real GDP growth to -68% for monthly CPI inflation.
-</abstr>
 
-
-
-<br>
 
 ## Publications
-
 
 <pptt> Sequential Monte Carlo with Model Tempering</pptt> 
 <div> Mlikota, M., Schorfheide, F. (2024) </div>
@@ -79,7 +79,6 @@ Amir-Ahmadi, P., Mlikota, M., Stevanović, D.
 <abstr>
   Modern macroeconometrics often relies on time series models for which it is time-consuming to evaluate the likelihood function. We demonstrate how Bayesian computations for such models can be drastically accelerated by reweighting and mutating posterior draws from an approximating model that allows for fast likelihood evaluations, into posterior draws from the model of interest, using a sequential Monte Carlo (SMC) algorithm. We apply the technique to the estimation of a vector autoregression with stochastic volatility and two nonlinear dynamic stochastic general equilibrium models. The runtime reductions we obtain range from 27% to 88%.
 </abstr>
-
 
 <br>
 
@@ -105,6 +104,7 @@ Amir-Ahmadi, P., Mlikota, M., Stevanović, D.
 [DCSwitches-CEPR]: https://cepr.org/publications/dp18264
 
 [JMP-arXiv]: https://arxiv.org/abs/2211.13610
+[AAMS-arXiv]: https://arxiv.org/abs/2512.20152
 
 [SMC-MT]: https://www.degruyter.com/document/doi/10.1515/snde-2022-0103/html
 [SMC-MT-arXiv]: https://arxiv.org/abs/2202.07070

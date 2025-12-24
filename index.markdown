@@ -38,23 +38,19 @@ I'm also engaged in the BCC Programme ...
 In 2022 and 2024-2025, I also held consulting positions at the European Central Bank.
 -->
 
-[[CV]](FilesToAdd/CV_MM_EN.pdf) 
 
-
-My research interests are in time series econometrics and macroeconomics.
-In short, I develop econometric methodology and apply it to empirically relevant questions, typically in tight connection with macroeconomic theory.
+My research interests are in time series econometrics and macroeconomics; I develop econometric methods and apply them to empirically relevant questions, maintaining a tight link to macroeconomic theory.
 I am particularly drawn to the relation between networks and dynamics.
 
+[[CV]](FilesToAdd/CV_MM_EN.pdf) 
 [[Research Statement]](FilesToAdd/MM_ResearchStatement_2502.pdf)
-
-[[Google Scholar]][GoogleScholarLink] [[ORCID]][ORCIDProfileLink] 
-
+[[ORCID]][ORCIDProfileLink] 
+[[Google Scholar]][GoogleScholarLink] 
 [[GitHub]][GitHubProfileLink]
-
 
 Contact: marko.mlikota AT graduateinstitute DOT ch
 
-[[LinkedIn]][LinkedinProfileLink] [[Twitter]][TwitterProfileLink]
+[[LinkedIn]][LinkedinProfileLink] [[X]][TwitterProfileLink]
 
 
 

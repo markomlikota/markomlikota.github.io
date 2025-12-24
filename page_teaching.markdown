@@ -50,7 +50,7 @@ permalink: /teaching/
 <br>
 
 
-## Academic Courses
+## Courses
 
 Descriptions refer to the most recent version of the respective course. They evolved (slightly) over time.
 

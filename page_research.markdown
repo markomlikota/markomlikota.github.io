@@ -29,41 +29,39 @@ permalink: /research/
 <pptt> Modeling Product-Level Inflation Dynamics Along Supply Chains </pptt>
 Mlikota, M., Zhang, X. 
 
-
 <pptt> Sequential ABCs to Estimate Nonlinear DSGEs </pptt>
 Mlikota, M., Scheidegger, S., Schorfheide, F. 
 
 
-<pptt> Origins and Nature of Parameter Instability in Vector Autoregressions </pptt>
-Amir-Ahmadi, P., Mlikota, M., Stevanović, D.
-
-
-
 <br>
 
+
+
 ## Working Papers
+
+<pptt> Origins and Nature of Parameter Instability in Vector Autoregressions </pptt>
+<div> Amir-Ahmadi, P., Mlikota, M., Stevanović, D. (2025) </div>
+[[WP arXiv]][AAMS-arXiv]
+
+<pptt> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </pptt>
+<div> Mlikota, M. (2025) </div>
+[[WP arXiv]][JMP-arXiv] 
 
 <pptt> How Does a Dominant Currency Replace Another? Evidence from European Trade </pptt>
 <div> Mehl, A., Mlikota, M., van Robays, I. (2023) </div>
 [[WP Draft]](FilesToAdd/MehlMlikotaVanRobays2023_230619.pdf) [[WP CEPR]][DCSwitches-CEPR]
 
 
-<pptt> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </pptt>
-<div> Mlikota, M. (2025) </div>
-[[WP arXiv]][JMP-arXiv] 
-
-
-
 <br>
 
-## Publications
 
+
+## Publications
 
 <pptt> Sequential Monte Carlo with Model Tempering</pptt> 
 <div> Mlikota, M., Schorfheide, F. (2024) </div>
 <jjj>Studies in Nonlinear Dynamics & Econometrics</jjj><!--, https://doi.org/10.1515/snde-2022-0103-->
 [[Link to Document]][SMC-MT] [[WP arXiv]][SMC-MT-arXiv] [[WP CEPR]][SMC-MT-CEPR] [[Code]][SMC-MT-GitHubCodes]
-
 
 <pptt> SVARs with Occasionally-Binding Constraints</pptt>
 <div> Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S. (2022) </div>
@@ -84,6 +82,7 @@ Amir-Ahmadi, P., Mlikota, M., Stevanović, D.
 [DCSwitches-CEPR]: https://cepr.org/publications/dp18264
 
 [JMP-arXiv]: https://arxiv.org/abs/2211.13610
+[AAMS-arXiv]: https://arxiv.org/abs/2512.20152
 
 [SMC-MT]: https://www.degruyter.com/document/doi/10.1515/snde-2022-0103/html
 [SMC-MT-arXiv]: https://arxiv.org/abs/2202.07070
