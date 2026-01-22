@@ -39,13 +39,13 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 
 ## Working Papers
 
+<pptt> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </pptt>
+<div> Mlikota, M. (2026) </div>
+[[WP arXiv]][JMP-arXiv] 
+
 <pptt> Origins and Nature of Parameter Instability in Vector Autoregressions </pptt>
 <div> Amir-Ahmadi, P., Mlikota, M., Stevanović, D. (2025) </div>
 [[WP arXiv]][AAMS-arXiv]
-
-<pptt> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </pptt>
-<div> Mlikota, M. (2025) </div>
-[[WP arXiv]][JMP-arXiv] 
 
 <pptt> How Does a Dominant Currency Replace Another? Evidence from European Trade </pptt>
 <div> Mehl, A., Mlikota, M., van Robays, I. (2023) </div>
