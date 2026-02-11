@@ -43,7 +43,7 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 <div> Mlikota, M. (2026) </div>
 [[WP arXiv]][JMP-arXiv] 
 
-<pptt> Origins and Nature of Parameter Instability in Vector Autoregressions </pptt>
+<pptt> Origins and Nature of Macroeconomic Instability in Vector Autoregressions </pptt>
 <div> Amir-Ahmadi, P., Mlikota, M., Stevanović, D. (2025) </div>
 [[WP arXiv]][AAMS-arXiv]
 

@@ -39,11 +39,12 @@ In 2022 and 2024-2025, I also held consulting positions at the European Central 
 -->
 
 
-My research interests are in time series econometrics and macroeconomics; I develop econometric methods and apply them to empirically relevant questions, maintaining a tight link to macroeconomic theory.
+My research interests are in time series econometrics and macroeconomics; 
+I develop econometric methods and apply them to empirically relevant questions while maintaining a tight link to macroeconomic theory.
 I am particularly drawn to the relation between networks and dynamics.
 
 [[CV]](FilesToAdd/CV_MM_EN.pdf) 
-[[Research Statement]](FilesToAdd/MM_ResearchStatement_2502.pdf)
+[[Research Statement]](FilesToAdd/2602_MM_ResearchStatement.pdf)
 [[ORCID]][ORCIDProfileLink] 
 [[Google Scholar]][GoogleScholarLink] 
 [[GitHub]][GitHubProfileLink]
