@@ -48,8 +48,8 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 [[WP arXiv]][AAMS-arXiv]
 
 <pptt> How Does a Dominant Currency Replace Another? Evidence from European Trade </pptt>
-<div> Mehl, A., Mlikota, M., van Robays, I. (2023) </div>
-[[WP Draft]](FilesToAdd/MehlMlikotaVanRobays2023_230619.pdf) [[WP CEPR]][DCSwitches-CEPR]
+<div> Mehl, A., Mlikota, M., Ritto, J., van Robays, I. (2023) </div>
+[[WP CEPR (major revision ongoing)]][DCSwitches-CEPR]
 
 
 <br>

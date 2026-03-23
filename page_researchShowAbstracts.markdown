@@ -59,10 +59,15 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 <br>
 
 <pptt> How Does a Dominant Currency Replace Another? Evidence from European Trade </pptt>
-<div> Mehl, A., Mlikota, M., van Robays, I. (2023) </div>
-[[WP Draft]](FilesToAdd/MehlMlikotaVanRobays2023_230619.pdf) [[WP CEPR]][DCSwitches-CEPR]
+<div> Mehl, A., Mlikota, M., Ritto, J., van Robays, I. (2023) </div>
+[[WP CEPR (major revision ongoing)]][DCSwitches-CEPR]
 <abstr>
-  We assess why a dominant currency in international trade invoicing can be replaced with another by contrasting two hypotheses stressed in recent theory: increased trade and reduced exchange rate volatility vis-à-vis the emergent dominant currency area. Our study focuses on 13 European economies that saw marked increases in the use of the euro at the expense of the US dollar for trade invoicing. We show how theory maps itself into a network which links together invoicing currency decisions across countries and develop a fitting Panel-Vector autoregression to jointly model invoicing, trade and exchange rate volatility dynamics across countries, while allowing for cross-country effects emphasized in theory. We identify for each country a “trade shock” and an “exchange rate volatility shock”, finding significant evidence in support of the increased trade hypothesis. Our estimates suggest that in countries where trade with the Euro Area increased, the latter explains almost 40% of the rise in euro invoicing from 1999 to 2019. In contrast, the impact of greater exchange rate stability against the euro is found to be insignificant. Importantly, a country’s invoicing decision is significantly influenced by those of other countries within the regional trade network. This effect operates mainly via bilateral trade linkages rather than strategic complementarities in export price setting, which point to the relevance of changes to input-output linkages in making or breaking dominant currencies.
+  Dominant currencies in international trade invoicing are extraordinarily stable, yet after the euro's launch many economies in the euro area’s neighborhood shifted markedly from US dollar to euro invoicing.
+	We develop a semi-structural empirical framework to estimate how much two key forces emphasized in recent theory -- trade patterns and exchange-rate risk -- contributed to this switch in dominant-currency use. 
+	In our structural model, firms choose the prices and currency denomination of their exports before exchange rates are realized, and invoicing decisions are interdependent across countries through input-output linkages and strategic interactions in destination markets. 
+	To account for non-stationary dynamics, we approximate the equilibrium conditions around the previous period's equilibrium, which results in a dynamic, conditionally linear and high-dimensional state space model that links latent prices, quantities and currency shares across trade flows.
+	Using observed trade, export price indices and invoicing currency shares across countries, the framework enables us to decompose the observed rise in euro invoicing into contributions from trade integration, reduced exchange-rate risk, and their propagation through the regional trade network. 
+	Results based on a previous specification suggest that trade integration explains almost 40\% of the rise in euro invoicing from 1999 to 2019, whereas the impact of greater exchange rate stability against the euro is insignificant.
 </abstr>
 
 
