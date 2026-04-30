@@ -68,7 +68,7 @@ Descriptions refer to the most recent version of the respective course. They evo
 
 <br>
 
-<div class="tooltip"> <pptt> Econometrics II </pptt>  <br> Master, core course <br> <jjj>Spring '24, '25, '26</jjj>
+<div class="tooltip"> <pptt> Econometrics II </pptt>  <br> Master, core course <br> <jjj>Spring '24, '25, '26, '27</jjj>
 </div>
 <abstr>
   This is the second of two compulsory econometrics courses for first-year master students. 
@@ -81,20 +81,20 @@ Descriptions refer to the most recent version of the respective course. They evo
 
 <br>
 
-<div class="tooltip"> <pptt> Topics in Econometrics </pptt>  <br> Master, elective course <br> <jjj>Fall '23, '24, '25</jjj>
+<div class="tooltip"> <pptt> Topics in Econometrics </pptt>  <br> Master, elective course <br> <jjj>Fall '23, '24, '25, '26</jjj>
 </div>
 <abstr>
   This course discusses further topics in econometrics, building on the foundational concepts introduced in two compulsory econometrics courses for master students.
-  First, it introduces Bayesian inference and applies it to the linear regression model (yielding Ridge- and Lasso-estimation and providing the basis for machine learning methods), to panel data models (correlated random effects) and to autoregressions. This includes a discussion of model selection and numerical sampling methods.
+  First, it introduces Bayesian inference and applies it to cross-sectional linear regressions (Ridge- and Lasso-estimation), to panel data models (correlated random effects) and to univariate time series models. Thereby, it also discusses model selection and numerical sampling methods.
   Second, the course treats multivariate and nonlinear time series models (incl. vector autoregressions, dynamic factor models and models with time-varying parameters).
-  Third, the course covers causal inference methods, both in the context of randomized controlled trials and natural experiments. As part of this, it discusses regression discontinuity designs, matching methods and difference-in-differences estimation.
-  Time permitting, the course may briefly cover Machine Learning methods and non-parametric regressions (kernel smoothing methods, regression trees and random forests, neural networks).
-  Assessment is based on problem sets and an individual project, where students apply a method from the course to their application of interest. 
+  Third, the course introduces Machine Learning methods and nonparametric estimation. This encompasses Kernel Smoothing Methods, Regression Trees and Random Forests, Neural Networks and Classification Analysis. 
+  Time permitting, the course may cover other topics of students' interest (e.g. models of multinomial choice, sample selection models, duration models, advanced instrumental variables methods, quantile regression, synthetic controls, ...).
+  Assessment is based on two to three problem sets and an individual project, where students apply a method from the course to their application of interest. 
 </abstr>
 
 <br>
 
-<div class="tooltip"> <pptt> Advanced Quantitative Methods </pptt>  <br> Interdisciplinary Master, elective course <br> <jjj>Spring '25, '26</jjj>
+<div class="tooltip"> <pptt> Advanced Quantitative Methods </pptt>  <br> Interdisciplinary Master, elective course <br> <jjj>Spring '25, '26, '27</jjj>
 </div>
 <abstr>
   Building on the compulsory course “Statistical Literacy”, this course introduces the fundamentals of econometrics. It discusses OLS regressions and the basics of panel data techniques, which are commonly used by social scientists to answer real world questions. The emphasis lies on understanding the assumptions behind these methods, on developing the skills to read and understand quantitative academic papers, and on analyzing interesting datasets using statistical software.
