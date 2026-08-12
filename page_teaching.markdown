@@ -20,7 +20,9 @@ permalink: /teaching/
 
 ## Resources
 
-[[Term Paper Guidelines]](FilesToAdd/MM_TermPaperGuidelines.pdf)
+[[Term Paper- and Master Thesis-Guidelines]](FilesToAdd/MM_TermPaperMasterThesisGuidelines.pdf)
+
+[[Note on Grading]](FilesToAdd/MM_NoteOnGradingMetrics.pdf)
 
 <a href="{% link page_teaching_NoteOnAITools.markdown %}"> [Note on the Use of "AI"-Tools in Econometrics Courses] </a>
 
@@ -84,12 +86,7 @@ Descriptions refer to the most recent version of the respective course. They evo
 <div class="tooltip"> <pptt> Topics in Econometrics </pptt>  <br> Master, elective course <br> <jjj>Fall '23, '24, '25, '26</jjj>
 </div>
 <abstr>
-  This course discusses further topics in econometrics, building on the foundational concepts introduced in two compulsory econometrics courses for master students.
-  First, it introduces Bayesian inference and applies it to cross-sectional linear regressions (Ridge- and Lasso-estimation), to panel data models (correlated random effects) and to univariate time series models. Thereby, it also discusses model selection and numerical sampling methods.
-  Second, the course treats multivariate and nonlinear time series models (incl. vector autoregressions, dynamic factor models and models with time-varying parameters).
-  Third, the course introduces Machine Learning methods and nonparametric estimation. This encompasses Kernel Smoothing Methods, Regression Trees and Random Forests, Neural Networks and Classification Analysis. 
-  Time permitting, the course may cover other topics of students' interest (e.g. models of multinomial choice, sample selection models, duration models, advanced instrumental variables methods, quantile regression, synthetic controls, ...).
-  Assessment is based on two to three problem sets and an individual project, where students apply a method from the course to their application of interest. 
+  This course discusses further topics in econometrics, building on the foundational concepts introduced in two compulsory econometrics courses for master students. First, it introduces Bayesian inference and applies it to cross-sectional linear regressions (Ridge- and Lasso-estimation), to panel data models (correlated random effects) and to univariate time series models. Thereby, it also discusses model selection and numerical sampling methods. Second, the course treats multivariate and nonlinear time series models (incl. vector autoregressions, dynamic factor models and models with time-varying parameters). Third, the course introduces Machine Learning methods and nonparametric estimation. This encompasses Kernel Smoothing Methods, Regression Trees and Random Forests, Neural Networks and Classification Analysis. Assessment is based on three problem sets and an individual project, where students apply a method from the course (or from Econometrics I or II) to their application of interest.
 </abstr>
 
 <br>
