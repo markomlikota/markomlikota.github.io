@@ -22,7 +22,6 @@ permalink: /researchShowAbstracts/
 <a href="{% link page_researchShowAbstracts.markdown %}"> [Show Abstracts] </a>
 
 
-
 <br>
 
 ## Work in Progress
