@@ -10,10 +10,10 @@ layout: home
 
 <nav>
     <ul>
-      <li><a href="">Home</a></li>
-      <li><a href="/research/">Research</a></li>
-      <li><a href="/teaching/">Teaching</a></li>
-      <li><a href="/software/">Software</a></li>
+      <li><a href="">[Home]</a></li>
+      <li><a href="/research/">[Research]</a></li>
+      <li><a href="/teaching/">[Teaching]</a></li>
+      <li><a href="/software/">[Software]</a></li>
     </ul>
 </nav>
 ---

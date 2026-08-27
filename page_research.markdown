@@ -7,10 +7,10 @@ permalink: /research/
 
 <nav>
     <ul>
-      <li><a href="{% link index.markdown %}">Home</a></li>
-      <li><a href="/research/">Research</a></li>
-      <li><a href="/teaching/">Teaching</a></li>
-      <li><a href="/software/">Software</a></li>
+      <li><a href="{% link index.markdown %}">[Home]</a></li>
+      <li><a href="/research/">[Research]</a></li>
+      <li><a href="/teaching/">[Teaching]</a></li>
+      <li><a href="/software/">[Software]</a></li>
     </ul>
 </nav>
 ---
@@ -76,6 +76,14 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 
 
 
+<!-- 
+
+<br>
+
+<hr style="width: 33%; margin-left: 0; border: none; border-top: 1px solid #999999; opacity: 0.5;">
+
+-->
+
 
 
 
@@ -99,7 +107,6 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 [P006-NBER]: https://www.nber.org/papers/w28571
 [P006-CEPR]: https://cepr.org/publications/dp15923
 [P006-CodesFrank]: https://web.sas.upenn.edu/schorf/publications/
-
 
 
 
