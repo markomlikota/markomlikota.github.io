@@ -5,9 +5,9 @@ permalink: /software_RTutorial/
 
 <nav>
     <ul>
-      <li><a href="{% link index.markdown %}">[Home]</a></li>
-      <li><a href="/research/">[Research]</a></li>
-      <li><a href="/teaching/">[Teaching]</a></li>
+      <li><a href="{% link index.markdown %}"><strong>[Home]</strong></a></li>
+      <li><a href="/research/"><strong>[Research]</strong></a></li>
+      <li><a href="/teaching/"><strong>[Teaching]</strong></a></li>
       <li><a href="/software/">[Software]</a></li>
     </ul>
 </nav>

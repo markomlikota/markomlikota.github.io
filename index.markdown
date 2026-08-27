@@ -11,9 +11,9 @@ layout: home
 <nav>
     <ul>
       <li><a href="">[Home]</a></li>
-      <li><a href="/research/">[Research]</a></li>
-      <li><a href="/teaching/">[Teaching]</a></li>
-      <li><a href="/software/">[Software]</a></li>
+      <li><a href="/research/"><strong>[Research]</strong></a></li>
+      <li><a href="/teaching/"><strong>[Teaching]</strong></a></li>
+      <li><a href="/software/"><strong>[Software]</strong></a></li>
     </ul>
 </nav>
 ---
@@ -24,7 +24,8 @@ layout: home
   <a href="url"><img src="FilesToAdd/DSC06461_cropped.jpg" height="auto" style=" width:40%; border: 1px solid black; margin:0 0 0 0; border-radius:10%"></a>
 </p>
 
-<h2 align="center"> Marko Mlikota</h2>
+<h2 align="center" style="font-variant-caps: small-caps;"> Marko Mlikota </h2>
+
 
 
 <br>
@@ -40,7 +41,7 @@ In 2022 and 2024-2025, I also held consulting positions at the European Central 
 
 
 My research interests are in time series econometrics and macroeconomics; 
-I develop econometric methods and apply them to empirically relevant questions while maintaining a tight link to macroeconomic theory.
+I develop econometric methods and apply them to empirically relevant questions while maintaining -- typically -- a tight link to macroeconomic theory.
 I am particularly drawn to the relation between networks and dynamics.
 
 [[CV]](FilesToAdd/CV_MM_EN.pdf) 
