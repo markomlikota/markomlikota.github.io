@@ -26,11 +26,13 @@ permalink: /researchShowAbstracts/
 
 ## Work in Progress
 
-<pptt> Modeling Product-Level Inflation Dynamics Along Supply Chains </pptt>
-Mlikota, M., Zhang, X. 
+<div> Modeling Product-Level Inflation Dynamics Along Supply Chains </div>
+<div> <pptt> Mlikota, M., Zhang, X. </pptt> </div>
 
-<pptt> Sequential ABCs to Estimate Nonlinear DSGEs </pptt>
-Mlikota, M., Scheidegger, S., Schorfheide, F. 
+<div style="height: 12px;"></div>
+
+<div> Sequential ABCs to Estimate Nonlinear DSGEs </div>
+<div> <pptt> Mlikota, M., Scheidegger, S., Schorfheide, F. </pptt> </div>
 
 
 <br>
@@ -40,8 +42,8 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 ## Working Papers
 
 
-<pptt> Parameter Identification in Autoregressions under Discrete Sampling or Temporal Aggregation </pptt>
-<div> Mlikota, M. (2026) </div>
+<div> Parameter Identification in Autoregressions under Discrete Sampling or Temporal Aggregation </div>
+<div> <pptt> Mlikota, M. (2026) </pptt> </div>
 [[WP arXiv]][P017-arXiv] 
 <abstr>
   I consider an AR($p$) process that is observed every $q$ periods, either as a snapshot (stock variable) or as a sum over the sampling interval (flow variable).
@@ -59,8 +61,8 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 <br>
 
 
-<pptt> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </pptt>
-<div> Mlikota, M. (2026) </div>
+<div> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </div>
+<div> <pptt> Mlikota, M. (2026) </pptt> </div>
 [[WP arXiv]][P009-arXiv] 
 <abstr>
   Many economic environments involve units linked by a network. I develop an econometric framework that derives the dynamics of cross-sectional variables from the lagged innovation transmission along fixed bilateral links and that can accommodate general patterns of how higher-order network effects accumulate over time. The proposed NVAR rationalizes the SAR model as the limit under an infinitely high frequency of lagged network interactions. The factor-representation of the NVAR suggests that at the cost of restricting factor dynamics, it naturally incorporates sparse factors as locally important nodes in the network. The NVAR can be used to estimate dynamic network effects. When the network is estimated as well, it also offers a dimensionality-reduction technique for modeling high-dimensional processes. In a first application, I show that sectoral output in an RBC economy with lagged input-output conversion follows an NVAR. In turn, I estimate that the dynamic transmission of TFP shocks along supply chains accounts for 61% of persistence in aggregate output growth, leaving minor roles for autocorrelation in exogenous TFP processes. In a second application, I forecast macroeconomic aggregates across OECD countries by estimating a network behind global business cycle dynamics. This reduces out-of-sample MSEs for one-step ahead forecasts relative to a dynamic factor model by -12% (quarterly real GDP growth) to -68% (monthly CPI inflation).
@@ -68,8 +70,8 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 
 <br>
 
-<pptt> Origins and Nature of Macroeconomic Instability in Vector Autoregressions </pptt>
-<div> Amir-Ahmadi, P., Mlikota, M., Stevanović, D. (2025) </div>
+<div> Origins and Nature of Macroeconomic Instability in Vector Autoregressions </div>
+<div> <pptt> Amir-Ahmadi, P., Mlikota, M., Stevanović, D. (2025) </pptt> </div>
 [[WP arXiv]][P014-arXiv]
 <abstr>
   For a general class of dynamic and stochastic structural models, we show that (i) non-linearity in economic dynamics is a necessary and sufficient condition for time-varying parameters (TVPs) in the reduced-form VARMA process followed by observables, and (ii) all parameters' time-variation is driven by the same, typically few sources of stochasticity: the structural shocks. Our results call into question the common interpretation that TVPs are due to "structural instabilities". Motivated by our theoretical analysis, we model a set of macroeconomic and financial variables as a TVP-VAR with a factor-structure in TVPs. This reveals that most instabilities are driven by two factors, which strongly comove, respectively, with measures of macroeconomic uncertainty and the contribution of finance to real economic activity, both of which are commonly emphasized as important sources of non-linearities in macroeconomics. Furthermore, our model yields improved forecasts relative to the standard TVP-VAR in which TVPs evolve as independent random walks.
@@ -77,8 +79,8 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 
 <br>
 
-<pptt> How Does a Dominant Currency Replace Another? Evidence from European Trade </pptt>
-<div> Mehl, A., Mlikota, M., Ritto, J., van Robays, I. (2023) </div>
+<div> How Does a Dominant Currency Replace Another? Evidence from European Trade </div>
+<div> <pptt> Mehl, A., Mlikota, M., Ritto, J., van Robays, I. (2023) </pptt> </div>
 [[WP CEPR (major revision ongoing)]][P007-CEPR]
 <abstr>
   Dominant currencies in international trade invoicing are extraordinarily stable, yet after the euro's launch many economies in the euro area’s neighborhood shifted markedly from US dollar to euro invoicing.
@@ -96,8 +98,8 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 
 ## Publications
 
-<pptt> Sequential Monte Carlo with Model Tempering</pptt> 
-<div> Mlikota, M., Schorfheide, F. (2024) </div>
+<div> Sequential Monte Carlo with Model Tempering </div>
+<div> <pptt> Mlikota, M., Schorfheide, F. (2024) </pptt> </div>
 <jjj>Studies in Nonlinear Dynamics & Econometrics</jjj><!--, https://doi.org/10.1515/snde-2022-0103-->
 [[Link to Document]][P005-doc] [[WP arXiv]][P005-arXiv] [[WP CEPR]][P005-CEPR] [[Code]][P005-GitHub]
 <abstr>
@@ -106,8 +108,8 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 
 <br>
 
-<pptt> SVARs with Occasionally-Binding Constraints</pptt>
-<div> Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S. (2022) </div>
+<div> SVARs with Occasionally-Binding Constraints </div>
+<div> <pptt> Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S. (2022) </pptt> </div>
 <jjj>Journal of Econometrics</jjj><!--, 231(2), 477-499-->
 [[Link to Document]][P006-doc] [[WP NBER]][P006-NBER] [[WP CEPR]][P006-CEPR] [[Code]][P006-CodesFrank]
 <abstr>

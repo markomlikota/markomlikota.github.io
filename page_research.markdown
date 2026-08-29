@@ -26,11 +26,13 @@ permalink: /research/
 
 ## Work in Progress
 
-<pptt> Modeling Product-Level Inflation Dynamics Along Supply Chains </pptt>
-Mlikota, M., Zhang, X. 
+<div> Modeling Product-Level Inflation Dynamics Along Supply Chains </div>
+<div> <pptt> Mlikota, M., Zhang, X. </pptt> </div>
 
-<pptt> Sequential ABCs to Estimate Nonlinear DSGEs </pptt>
-Mlikota, M., Scheidegger, S., Schorfheide, F. 
+<div style="height: 12px;"></div>
+
+<div> Sequential ABCs to Estimate Nonlinear DSGEs </div>
+<div> <pptt> Mlikota, M., Scheidegger, S., Schorfheide, F. </pptt> </div>
 
 
 <br>
@@ -40,20 +42,20 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 ## Working Papers
 
 
-<pptt> Parameter Identification in Autoregressions under Discrete Sampling or Temporal Aggregation </pptt>
-<div> Mlikota, M. (2026) </div>
+<div> Parameter Identification in Autoregressions under Discrete Sampling or Temporal Aggregation </div>
+<div> <pptt> Mlikota, M. (2026) </pptt> </div>
 [[WP arXiv]][P017-arXiv] 
 
-<pptt> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </pptt>
-<div> Mlikota, M. (2026) </div>
+<div> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </div>
+<div> <pptt> Mlikota, M. (2026) </pptt> </div>
 [[WP arXiv]][P009-arXiv] 
 
-<pptt> Origins and Nature of Macroeconomic Instability in Vector Autoregressions </pptt>
-<div> Amir-Ahmadi, P., Mlikota, M., Stevanović, D. (2025) </div>
+<div> Origins and Nature of Macroeconomic Instability in Vector Autoregressions </div>
+<div> <pptt> Amir-Ahmadi, P., Mlikota, M., Stevanović, D. (2025) </pptt> </div>
 [[WP arXiv]][P014-arXiv]
 
-<pptt> How Does a Dominant Currency Replace Another? Evidence from European Trade </pptt>
-<div> Mehl, A., Mlikota, M., Ritto, J., van Robays, I. (2023) </div>
+<div> How Does a Dominant Currency Replace Another? Evidence from European Trade </div>
+<div> <pptt> Mehl, A., Mlikota, M., Ritto, J., van Robays, I. (2023) </pptt> </div>
 [[WP CEPR (major revision ongoing)]][P007-CEPR]
 
 
@@ -63,13 +65,13 @@ Mlikota, M., Scheidegger, S., Schorfheide, F.
 
 ## Publications
 
-<pptt> Sequential Monte Carlo with Model Tempering</pptt> 
-<div> Mlikota, M., Schorfheide, F. (2024) </div>
+<div> Sequential Monte Carlo with Model Tempering </div>
+<div> <pptt> Mlikota, M., Schorfheide, F. (2024) </pptt> </div>
 <jjj>Studies in Nonlinear Dynamics & Econometrics</jjj><!--, https://doi.org/10.1515/snde-2022-0103-->
 [[Link to Document]][P005-doc] [[WP arXiv]][P005-arXiv] [[WP CEPR]][P005-CEPR] [[Code]][P005-GitHub]
 
-<pptt> SVARs with Occasionally-Binding Constraints</pptt>
-<div> Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S. (2022) </div>
+<div> SVARs with Occasionally-Binding Constraints </div>
+<div> <pptt> Aruoba, S.B., Mlikota, M., Schorfheide, F., Villalvazo, S. (2022) </pptt> </div>
 <jjj>Journal of Econometrics</jjj><!--, 231(2), 477-499-->
 [[Link to Document]][P006-doc] [[WP NBER]][P006-NBER] [[WP CEPR]][P006-CEPR] [[Code]][P006-CodesFrank]
 

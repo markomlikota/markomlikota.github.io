@@ -13,7 +13,8 @@ permalink: /teaching_PhDapps/
 </nav>
 ---
 
-# PhD Applications & "Swiss Scholarships"
+
+# PhD Applications & Swiss Government Excellence Scholarships
 
 
 All applications to the PhD program at the Geneva Graduate Institute are channeled through the Institute's application portal (click [[here]][AdmissionsWebsiteLink] for more information). 
@@ -22,7 +23,7 @@ They are not able to commit to supervise students who have not yet been admitted
 Please contact our admission office at admission@graduateinstitute.ch for more information about the application process.
 
 
-All this also holds for applications to the Swiss Government Excellence Scholarship through the Geneva Graduate Institute. You may submit your application to the Institute in the admission round with a deadline of 15 October. If your application is successful, you will receive:
+The preceding also holds for applications to the Swiss Government Excellence Scholarship through the Geneva Graduate Institute. You may submit your application to the Institute in the admission round with a deadline of 15 October. If your application is successful, you will receive:
 
 - an official letter confirming your conditional admission (subject to the award of the Swiss Government Excellence Scholarship), and
 

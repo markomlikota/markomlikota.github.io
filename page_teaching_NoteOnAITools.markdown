@@ -14,7 +14,7 @@ permalink: /teaching_NoteOnAITools/
 ---
 
 
-# Note on the use of LLMs (Claude, ChatGPT, etc.) in Courses
+# Use of LLMs (Claude, ChatGPT, etc.) in Courses
 
 
 Large Language Models (LLMs) are very helpful for gathering information (like an advanced search engine) and for executing simple tasks (like a research assistant).
@@ -22,7 +22,7 @@ I use them myself extensively, and this increased my productivity across a wide 
 There is a caveat to their use in courses, though.
 
 
-In order to become a good economist (learn to conduct valuable economic analyses in academia, in policy or in the private sector), 
+In order to learn to conduct valuable economic analyses in academia, in policy or in the private sector, 
 it is important that students build some foundational knowledge in economics in general and econometrics in particular.
 How else to know what to even ask an LLM or how to interpret its responses?! 
 Sure, even someone who's never heard of economics could still pass on a question to it and let it explain in detail, but (i) this would -- without thoughtful engagement with the response and many iterative refinements -- result in an analysis of poor quality, and/or (ii) it would amount to learning the material then, with the LLM. 
