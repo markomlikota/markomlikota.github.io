@@ -22,6 +22,7 @@ permalink: /research/
 <a href="{% link page_researchShowAbstracts.markdown %}"> **[Show Abstracts]** </a>
 
 
+
 <br>
 
 ## Work in Progress
@@ -35,9 +36,8 @@ permalink: /research/
 <div> <pptt> Mlikota, M., Scheidegger, S., Schorfheide, F. </pptt> </div>
 
 
+
 <br>
-
-
 
 ## Working Papers
 
@@ -59,9 +59,8 @@ permalink: /research/
 [[WP CEPR (major revision ongoing)]][P007-CEPR]
 
 
-<br>
 
-
+<div style="height: 16px;"></div>
 
 ## Publications
 

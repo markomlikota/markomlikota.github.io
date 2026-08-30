@@ -2,3 +2,13 @@
 
 $base-font-family: "EB Garamond", Garamond, Georgia, serif;
 $base-font-size:   18px;
+
+
+
+// Light design. The dark skin (skins/dark.scss) still supplies everything
+// else; these three override it. See custom-styles.scss for the previous
+// (dark) color scheme.
+// $background-color: #b09470;
+$text-color: #d5d0c7;
+$link-hover-color: $text-color;
+

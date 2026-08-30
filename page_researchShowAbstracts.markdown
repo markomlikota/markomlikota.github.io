@@ -22,6 +22,8 @@ permalink: /researchShowAbstracts/
 <a href="{% link page_researchShowAbstracts.markdown %}"> [Show Abstracts] </a>
 
 
+
+
 <br>
 
 ## Work in Progress
@@ -35,9 +37,9 @@ permalink: /researchShowAbstracts/
 <div> <pptt> Mlikota, M., Scheidegger, S., Schorfheide, F. </pptt> </div>
 
 
+
+
 <br>
-
-
 
 ## Working Papers
 
@@ -92,9 +94,9 @@ permalink: /researchShowAbstracts/
 </abstr>
 
 
-<br>
 
 
+<div style="height: 16px;"></div>
 
 ## Publications
 

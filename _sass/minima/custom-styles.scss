@@ -2,6 +2,29 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 
+// ---------------------------------------------------------------------
+// PREVIOUS COLOR SCHEME  (dark design, saved 29 Aug 2026)
+//
+//   pptt  (second line)              : #e3ccacc7 // #1a364bf4;
+//   jjj   (third line)               : #ecb165c7 // #16473a;
+//   links (a, a:visited, nav ul li a): #dc6e62c3 // #0e2759;
+//   abstr (abstract)                 : #a09f9fc7
+//
+//   background                       : #181818   <- from skins/dark.scss
+//   text                             : #bbbbbb   <- from skins/dark.scss
+//
+// To revert: restore the three values above, and delete the
+// $background-color / $text-color / $link-hover-color overrides in
+// custom-variables.scss (the dark skin then supplies them again).
+// ---------------------------------------------------------------------
+
+
+// Second-line colour (pptt, i.e. the author/year line).
+$secondary-color: #e3ccacc7;
+
+// Links, incl. the nav.:
+$link-color: #dc6e62c3;
+
 
 nav ul {
     display: flex;
@@ -20,23 +43,31 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #dc6e62c3; 
+    color: $link-color;
+}
+
+/** Horizontal rules (the `---` below the nav). Minima sets only their
+    margins, so they fall back to the browser's default `inset` border,
+    which renders as a shaded grey rather than the text colour. */
+hr {
+    border: 0;
+    border-top: 1px solid $text-color;
 }
 
 pptt {
-    color: #e3ccacc7;
-    opacity: 0.900;
+    color: $secondary-color;
+    opacity: 0.999;
 }
 
 jjj {
-    color: #ecb165c7;
-    opacity: 0.900;
+    color: #a5805b; 
+    opacity: 0.999;
     font-style: italic;
 }
 
  abstr {
-     color: #a09f9fc7;
-     opacity: 0.900;
+     color: $text-color;   // same as the main body text
+     opacity: 0.999;
      font-size: 16px;
      display: block;
      text-align: justify;
@@ -45,9 +76,25 @@ jjj {
  }
 
 
+/** Justified body text.
+    Targets markdown-generated paragraphs only, so the prose pages (home,
+    note on LLMs, note on PhD applications) are justified while the
+    research/teaching/software listings -- which are written as <div>s --
+    keep their left alignment. Hyphenation as in `abstr`, to avoid large
+    inter-word gaps.
+    The :not([align]) spares paragraphs that carry an explicit alignment
+    attribute, e.g. the <p align="center"> holding the photo on the home
+    page: that attribute is only a presentational hint, so a plain
+    `.home p` rule would override it and push the photo to the left. */
+.home p:not([align]) {
+    text-align: justify;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+}
+
 
 /** Links */
-a { color: #dc6e62c3; text-decoration: none; }
-a:visited { color: #dc6e62c3; }
+a { color: $link-color; text-decoration: none; }
+a:visited { color: $link-color; }
 
 // #8a2e3e; #dc6e53c3;
