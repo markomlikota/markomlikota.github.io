@@ -16,6 +16,10 @@ permalink: /teaching_NoteOnAITools/
 
 # Use of LLMs (Claude, ChatGPT, etc.) in Courses
 
+<div> <pptt> 9 September 2026 </pptt> </div>
+
+<br>
+
 
 Large Language Models (LLMs) are very helpful for gathering information (like an advanced search engine) and for executing simple tasks (like a research assistant).
 I use them myself extensively, and this increased my productivity across a wide range of tasks.

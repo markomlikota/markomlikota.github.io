@@ -44,30 +44,41 @@ permalink: /researchShowAbstracts/
 ## Working Papers
 
 
-<div> Parameter Identification in Autoregressions under Discrete Sampling or Temporal Aggregation </div>
+<div> Dynamic Innovation Transmission Through Networks: Theory, Large $T$-Inference, and the Role of Input-Output Conversion in Business Cycles </div>
 <div> <pptt> Mlikota, M. (2026) </pptt> </div>
-[[WP arXiv]][P017-arXiv] 
+[[WP arXiv]][P009-arXiv] 
 <abstr>
-  I consider an AR($p$) process that is observed every $q$ periods, either as a snapshot (stock variable) or as a sum over the sampling interval (flow variable).
-	Under fairly mild assumptions, 
-	I derive the identified set for general lag lengths $p \in \mathbb{N}$ and sampling frequencies $q \in \mathbb{N}$, 
-	I bound its cardinality,
-	and I provide a recipe to compute all candidate points and determine their membership in the identified set.
-	My analysis supports the following conjecture:
-	(i) the error term-variance is point-identified, 
-	(ii) under temporal aggregation, the autoregressive parameters are point-identified, 
-	and (iii) under discrete sampling they are point-identified for odd sampling frequencies and identified up to alternating sign for even sampling frequencies.
-	I prove this conjecture in some settings and verify it numerically more broadly.
+  I develop an econometric framework 
+	that rationalizes the dynamics of a cross-sectional variable by lagged transmissions of innovations along bilateral links between units.
+	The NVAR I propose is parameterized by $\alpha \in \mathbb{R}^p$, $p \in \mathbb{N}$ 
+	-- showing the time profile of transmission along a direct link --
+	and $q \in \mathbb{N}$ -- showing the relative frequency of network interactions to observation.
+	While nesting the Spatial Autoregression and Spatial Error Model in the limit as $q \to \infty$ and producing equivalent impulse-responses in the long run for any finite $q$, 
+	it can accommodate general transmission patterns over time and yields ``networked'' transition dynamics distinct from those implied by autocorrelated innovations.
+	For a given network, $\alpha$ is identified at least up to alternating sign and its Gaussian Maximum Likelihood estimator is consistent and asymptotically Normal under mild assumptions.
+	I then estimate an NVAR for monthly industrial production among 23 US manufacturing sectors, as derived under a Real Business Cycle economy with lagged input-output conversion (IOC), and I quantify the extent to which business cycles can be endogenized by the lagged transmission of productivity shocks along supply chains.
+	Compared to an economy with contemporaneous IOC, the preferred lagged-IOC specification reduces the estimated shock-variances on average by 73% and accounts for around 85% of the persistence in aggregate output growth.
+	In this environment, a single common productivity shock explains 90% of aggregate fluctuations, leaving a negligible role for sector-specific shocks once sectoral heterogeneity in the temporal exposure to common shocks is accounted for.
 </abstr>
 
 <br>
 
-
-<div> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </div>
+<div> Parameter Identification and Inference in Discretely Sampled or Temporally Aggregated Autoregressions </div>
 <div> <pptt> Mlikota, M. (2026) </pptt> </div>
-[[WP arXiv]][P009-arXiv] 
+[[WP arXiv]][P017-arXiv] 
 <abstr>
-  Many economic environments involve units linked by a network. I develop an econometric framework that derives the dynamics of cross-sectional variables from the lagged innovation transmission along fixed bilateral links and that can accommodate general patterns of how higher-order network effects accumulate over time. The proposed NVAR rationalizes the SAR model as the limit under an infinitely high frequency of lagged network interactions. The factor-representation of the NVAR suggests that at the cost of restricting factor dynamics, it naturally incorporates sparse factors as locally important nodes in the network. The NVAR can be used to estimate dynamic network effects. When the network is estimated as well, it also offers a dimensionality-reduction technique for modeling high-dimensional processes. In a first application, I show that sectoral output in an RBC economy with lagged input-output conversion follows an NVAR. In turn, I estimate that the dynamic transmission of TFP shocks along supply chains accounts for 61% of persistence in aggregate output growth, leaving minor roles for autocorrelation in exogenous TFP processes. In a second application, I forecast macroeconomic aggregates across OECD countries by estimating a network behind global business cycle dynamics. This reduces out-of-sample MSEs for one-step ahead forecasts relative to a dynamic factor model by -12% (quarterly real GDP growth) to -68% (monthly CPI inflation).
+  I consider an AR($p$) process that is observed every $q$ periods, either as a snapshot (stock variable) or as a sum over the sampling interval (flow variable).
+	I first characterize the resulting ARMA process followed by observables.
+	Under fairly mild assumptions, 
+	I then derive the identified set for general lag lengths $p \in \mathbb{N}$ and sampling frequencies $q \in \mathbb{N}$, 
+	I bound its cardinality,
+	and I provide an algorithm to compute all candidate points and determine their membership in the identified set.
+	My exact but implicit characterization supports the following conjecture that I prove in some settings and verify numerically more broadly:
+	(i) the error term-variance is point-identified, 
+	(ii) under temporal aggregation, the autoregressive parameters are point-identified, 
+	and (iii) under discrete sampling they are point-identified for odd $q$ and identified up to alternating sign for even $q$.
+	My analysis supplements existing inference results that show consistency and asymptotic Normality of the Gaussian Maximum Likelihood estimator conditional on point-identification.
+	Holding the number of observations fixed, I show that its precision does not necessarily decrease with $q$.
 </abstr>
 
 <br>

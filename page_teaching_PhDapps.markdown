@@ -16,6 +16,10 @@ permalink: /teaching_PhDapps/
 
 # PhD Applications & Swiss Government Excellence Scholarships
 
+<div> <pptt> 9 September 2026 </pptt> </div>
+
+<br>
+
 
 All applications to the PhD program at the Geneva Graduate Institute are channeled through the Institute's application portal (click [[here]][AdmissionsWebsiteLink] for more information). 
 The professors jointly evaluate the applications and decide on admission.

@@ -33,7 +33,7 @@ layout: home
 
 Hi!
 
-I'm an Assistant Professor of Economics at the Geneva Graduate Institute (<i>Institut de hautes études internationales et du développement, IHEID</i>).
+I am Assistant Professor of Empirical Macroeconomics at the Geneva Graduate Institute (<i>Institut de hautes études internationales et du développement, IHEID</i>).
 <!-- 
 I'm also engaged in the BCC Programme ...
 In 2022 and 2024-2025, I also held consulting positions at the European Central Bank.

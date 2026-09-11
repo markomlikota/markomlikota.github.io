@@ -42,13 +42,13 @@ permalink: /research/
 ## Working Papers
 
 
-<div> Parameter Identification in Autoregressions under Discrete Sampling or Temporal Aggregation </div>
-<div> <pptt> Mlikota, M. (2026) </pptt> </div>
-[[WP arXiv]][P017-arXiv] 
-
-<div> Cross-Sectional Dynamics Under Network Structure: Theory and Macroeconomic Applications </div>
+<div> Dynamic Innovation Transmission Through Networks: Theory, Large $T$-Inference, and the Role of Input-Output Conversion in Business Cycles </div>
 <div> <pptt> Mlikota, M. (2026) </pptt> </div>
 [[WP arXiv]][P009-arXiv] 
+
+<div> Parameter Identification and Inference in Discretely Sampled or Temporally Aggregated Autoregressions </div>
+<div> <pptt> Mlikota, M. (2026) </pptt> </div>
+[[WP arXiv]][P017-arXiv] 
 
 <div> Origins and Nature of Macroeconomic Instability in Vector Autoregressions </div>
 <div> <pptt> Amir-Ahmadi, P., Mlikota, M., Stevanović, D. (2025) </pptt> </div>
